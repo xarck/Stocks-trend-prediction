@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,MMYT,May-25-22,04:06PM  ,Exclusive Amazon Partnership Could Broaden MakeMyTrips India Reach,0.3182,25.93000030517578,29.39,26.2,26.092183105720135,1,Increase,Success
+1,MMYT,May-25-22,03:00PM  ,MakeMyTrip (MMYT) Q4 2022 Earnings Call Transcript,0.0,25.93000030517578,29.39,26.2,0.0,0,Neutral,positive
+2,MMYT,May-25-22,10:45AM  ,"At US$25.18, Is MakeMyTrip Limited (NASDAQ:MMYT) Worth Looking At Closely?",0.0,25.93000030517578,29.39,26.2,0.0,0,Neutral,positive
+3,MMYT,May-25-22,08:54AM  ,MakeMyTrip Tops Q4 On Gradual Recovery Of Domestic Travel,0.5106,25.93000030517578,29.39,26.2,26.092183105720135,1,Increase,Success
+4,MMYT,May-12-22,10:00AM  ,"MakeMyTrip Limited to Report Fiscal 2022 Fourth Quarter and Full Year Financial & Operating Results on May 25, 2022",-0.2263,22.670000076293945,23.81,23.01,22.88031677922235,1,Neutral,positive
+5,MMYT,May-07-22,08:26AM  ,"Shareholders in MakeMyTrip (NASDAQ:MMYT) have lost 39%, as stock drops 9.3% this past week",-0.3182,22.479999542236328,23.65,21.36,23.219398675964573,1,Neutral,positive
+6,MMYT,Apr-12-22,06:30AM  ,When Will MakeMyTrip Limited (NASDAQ:MMYT) Turn A Profit?,0.25,25.0,26.72,25.36,25.057844767855848,1,Increase,Success
+7,MMYT,Mar-05-22,06:18AM  ,Is MakeMyTrip (NASDAQ:MMYT) A Risky Investment?,-0.2023,20.450000762939453,21.41,20.06,22.92890966047633,1,Neutral,positive
+8,MMYT,Jan-27-22,05:38PM  ,"Bessemer Group Inc Buys NVIDIA Corp, Intuit Inc, Northrop Grumman Corp, Sells PayPal Holdings ...",0.0,23.309999465942383,24.67,22.58,0.0,0,Neutral,positive
+9,MMYT,Jan-25-22,05:00PM  ,MakeMyTrip (MMYT) Q3 2022 Earnings Call Transcript,0.0,24.540000915527344,25.86,22.56,0.0,0,Neutral,positive
+10,MMYT,Jan-25-22,07:45AM  ,MakeMyTrip Limited Announces Fiscal 2022 Third Quarter Financial & Operating Results,-0.2263,24.540000915527344,25.86,22.56,24.568858489825548,1,Neutral,positive
+11,MMYT,Jan-24-22,08:15AM  ,Is MakeMyTrip Limited (NASDAQ:MMYT) Trading At A 21% Discount?,-0.2263,25.170000076293945,25.31,23.95,25.126083237785586,-1,Decrease,Success
+12,MMYT,Jan-17-22,11:34AM  ,"MakeMyTrip Limited to Report Fiscal 2022 Third Quarter Financial & Operating Results on January 25, 2022",-0.2263,27.059999465942383,28.33,26.54,26.745201982454795,-1,Decrease,Success
+13,MMYT,Dec-31-21,11:26AM  ,"Booking Holdings (BKNG) Acquires Getaroom, Bolsters Priceline",0.0,27.709999084472656,29.25,27.85,0.0,0,Neutral,negative
+14,MMYT,Dec-27-21,11:38PM  ,"Advisors' Inner Circle Fund III Buys Devon Energy Corp, Deere, Country Garden Holdings Co, ...",0.2732,28.989999771118164,29.05,28.16,29.055085684160577,1,Increase,Success
+15,MMYT,Dec-08-21,08:52AM  ,Should You Investigate MakeMyTrip Limited (NASDAQ:MMYT) At US$27.18?,-0.2263,28.899999618530273,29.23,28.03,29.15602277481613,1,Neutral,negative
+16,MMYT,Dec-06-21,07:38PM  ,"Bernstein Sanford C Fund Inc Buys MakeMyTrip, Max Financial Services, Kia Corp, Sells Samsung ...",-0.6369,26.15999984741211,28.12,27.11,26.32314094527574,1,Neutral,positive
+17,MMYT,Dec-06-21,07:38PM  ,"Ab Cap Fund, Inc. Buys PetroChina Co, Samsung SDI Co, Polski Koncern Naftowy ORLEN SA, Sells ...",0.0,26.15999984741211,28.12,27.11,0.0,0,Neutral,positive
+18,MMYT,Dec-03-21,09:01AM  ,9 Best Indian Stocks to Buy Right Now,0.6369,24.610000610351562,27.03,24.32,24.550020931354965,-1,Neutral,positive
+19,MMYT,Nov-01-21,06:54AM  ,MakeMyTrip India to Offer Travel Services on Amazon,0.1779,32.970001220703125,34.27,32.26,32.85625750914913,-1,Neutral,positive
+20,MMYT,Oct-30-21,08:25AM  ,Here's Why MakeMyTrip Stock Is Making Big Gains,0.34,32.970001220703125,34.27,32.26,31.138125894363306,-1,Neutral,positive
+21,MMYT,Oct-26-21,01:00PM  ,MakeMyTrip Limited (MMYT) Q2 2022 Earnings Call Transcript,-0.2263,28.520000457763672,33.34,28.9,28.782540680022063,1,Neutral,positive
+22,MMYT,Oct-19-21,10:00AM  ,"MakeMyTrip Limited to Report Fiscal 2022 Second Quarter Financial & Operating Results on October 26, 2021",-0.2263,30.56999969482422,30.5,29.79,30.634141653359443,1,Neutral,negative
+23,MMYT,Oct-15-21,09:39AM  ,"MakeMyTrip (NASDAQ:MMYT) shareholder returns have been favorable, earning 76% in 1 year",0.4767,30.799999237060547,31.0,30.16,31.030472453722428,1,Increase,Success
+24,MMYT,Oct-14-21,10:00AM  ,MakeMyTrip Limited Announces Partnership with Leading AI-Enabled Travel Booking App Hopper,-0.2263,31.350000381469727,32.43,30.76,31.483588984467424,1,Neutral,negative
+25,MMYT,Sep-28-21,06:38AM  ,"Zacks Industry Outlook Highlights: GoDaddy, MakeMyTrip and QuinStreet",0.0,25.809999465942383,25.97,25.49,0.0,0,Neutral,positive
+26,MMYT,Sep-13-21,12:00PM  ,What Makes MakeMyTrip (MMYT) a New Buy Stock,0.0,24.940000534057617,25.27,24.51,0.0,0,Neutral,negative
+27,MMYT,Aug-31-21,08:32AM  ,Breakeven On The Horizon For MakeMyTrip Limited (NASDAQ:MMYT),-0.2263,25.81999969482422,27.5,25.7,25.86519258704455,1,Neutral,positive
+28,MMYT,Aug-09-21,01:45PM  ,MakeMyTrip Limited Announces Details of its Annual Shareholders Meeting,-0.2263,28.200000762939453,28.46,26.94,28.121641801779678,-1,Decrease,Success
+29,MMYT,Jul-27-21,12:30PM  ,MakeMyTrip Limited (MMYT) Q1 2022 Earnings Call Transcript,-0.2263,28.559999465942383,29.96,27.91,28.618553485335035,1,Neutral,positive
+30,MMYT,Jul-21-21,10:30AM  ,"MakeMyTrip Limited to Report Fiscal 2022 First Quarter Financial & Operating Results on July 27, 2021",-0.2263,28.8700008392334,29.18,27.81,29.11251645035765,1,Neutral,negative
+31,MMYT,Jul-20-21,07:53AM  ,MakeMyTrip (MMYT) Sees Hammer Chart Pattern: Time to Buy?,0.0,27.09000015258789,29.2,27.33,0.0,0,Neutral,positive
+32,MMYT,Jun-23-21,10:21AM  ,"MakeMyTrip's (MMYT) Shares March Higher, Can It Continue?",0.296,31.989999771118164,33.06,32.3,32.019921617144796,1,Increase,Success
+33,MMYT,Jun-10-21,07:16AM  ,"Paytm, MakeMyTrip, Infosys offer to help India with COVID vaccine bookings",0.4019,28.389999389648438,29.23,28.2,28.423060890887225,1,Increase,Success
+34,MMYT,Jun-10-21,07:16AM  ,"Exclusive-Paytm, MakeMyTrip, Infosys offer to help India with COVID vaccine bookings",0.4019,28.389999389648438,29.23,28.2,28.423060890887225,1,Increase,Success
+35,MMYT,Jun-01-21,08:42AM  ,Is MakeMyTrip (MMYT) a Great Growth Stock?,0.7717,27.75,28.92,26.76,27.71180069829965,-1,Neutral,positive
+36,MMYT,May-25-21,04:30PM  ,MAKEMYTRIP LIMITED (MMYT) Q4 2021 Earnings Call Transcript,-0.3885,26.459999084472656,28.17,26.86,26.454338654677056,-1,Decrease,Failure
+37,MMYT,May-25-21,07:27AM  ,"Zacks Industry Outlook Highlights: MakeMyTrip, Vipshop Holdings and QuinStreet",0.0,26.459999084472656,28.17,26.86,0.0,0,Neutral,positive
+38,MMYT,May-24-21,09:20AM  ,3 Internet Delivery Stocks to Keep an Eye On in a Battered Industry,0.0,25.860000610351562,28.24,26.46,0.0,0,Neutral,positive
+39,MMYT,May-18-21,10:30AM  ,"MakeMyTrip Limited to Report Fiscal 2021 Fourth Quarter and Full Year Financial & Operating Results on May 25, 2021",-0.2263,25.290000915527344,25.52,24.72,25.3924985752608,1,Neutral,positive
+40,MMYT,May-09-21,08:25PM  ,Why MakeMyTrip Stock Fell 13.2% Last Month,0.0,24.989999771118164,25.57,24.15,0.0,0,Neutral,negative
+41,MMYT,Mar-18-21,07:39AM  ,Cramer Shares His Thoughts On MakeMyTrip And SunOpta,0.296,36.650001525878906,37.4,35.76,36.55641948990012,-1,Neutral,negative
+42,MMYT,Feb-05-21,06:35AM  ,MakeMyTrip Limited Announces Pricing of Upsized $200 Million 0.00% Convertible Senior Notes due 2028,-0.2263,28.559999465942383,30.29,28.61,28.580525417201468,1,Neutral,positive
+43,MMYT,Feb-03-21,04:57PM  ,MakeMyTrip Limited Announces Proposed Offering of $175 Million Convertible Senior Notes,-0.2263,31.579999923706055,29.92,27.18,31.636742822427745,1,Neutral,negative
+44,MMYT,Jan-28-21,10:00PM  ,MAKEMYTRIP LIMITED (MMYT) Q3 2021 Earnings Call Transcript,-0.3885,30.43000030517578,30.92,28.53,30.56903880147695,1,Neutral,negative
+45,MMYT,Jan-28-21,07:51AM  ,Recap: MakeMyTrip Q3 Earnings,0.0,30.43000030517578,30.92,28.53,0.0,0,Neutral,negative
+46,MMYT,Jan-27-21,10:33AM  ,Earnings Outlook for MakeMyTrip,0.0,29.469999313354492,31.48,28.59,0.0,0,Neutral,positive
+47,MMYT,Jan-21-21,01:30PM  ,"MakeMyTrip Limited to Report Fiscal 2021 Third Quarter Financial & Operating Results on January 28, 2021",-0.2263,31.59000015258789,31.63,30.11,31.606008738916653,1,Neutral,negative
+48,MMYT,Jan-18-21,06:06AM  ,"Zacks Industry Outlook Highlights: GoDaddy, Grubhub and MakeMyTrip",0.0,31.149999618530273,31.6,29.92,0.0,0,Neutral,negative
+49,MMYT,Jan-15-21,07:49AM  ,3 Internet Delivery Stocks to Watch in a Challenging Industry,0.1531,30.920000076293945,31.99,30.96,31.00891843688506,1,Increase,Success
+50,MMYT,Dec-29-20,10:35AM  ,"Expedia Books Key Benchmark, Hitting 83 RS Rating",0.0,27.350000381469727,28.75,27.6,0.0,0,Neutral,positive
+51,MMYT,Dec-28-20,09:43AM  ,Travel Space Holds Upside Potential for 2021: 3 Stocks in Focus,0.0,26.93000030517578,27.55,26.3,0.0,0,Neutral,positive
+52,MMYT,Dec-04-20,10:30AM  ,TripAdvisor Earns IBD Rating Upgrade As Summer Vacation Planning Begins,0.0,26.59000015258789,26.59,24.55,0.0,0,Neutral,negative
+53,MMYT,Nov-30-20,08:37AM  ,3 ETFs for the reopening trade,0.0,24.809999465942383,25.92,24.78,0.0,0,Neutral,positive
+54,MMYT,Oct-27-20,07:30PM  ,MAKEMYTRIP LIMITED (MMYT) Q2 2021 Earnings Call Transcript,-0.3885,18.950000762939453,19.19,17.8,19.13316906756547,1,Neutral,negative
+55,MMYT,Oct-26-20,05:35PM  ,MakeMyTrip Stock's Relative Strength Rating Arrives At Key Destination,0.4939,20.06999969482422,21.0,18.91,19.817267902515148,-1,Neutral,negative
+56,MMYT,Oct-20-20,10:00AM  ,"MakeMyTrip Limited to Report Fiscal 2021 Second Quarter Financial & Operating Results on October 27, 2020",-0.2263,19.190000534057617,19.61,19.01,19.24525472160573,1,Neutral,positive
+57,MMYT,Sep-17-20,10:35AM  ,Expedia Stock Showing Improved Relative Strength As Travel Improves,0.8442,17.649999618530273,17.76,17.02,17.635325330756935,-1,Neutral,negative
+58,MMYT,Sep-08-20,10:00AM  ,MakeMyTrip Limited Announces Details of Its Annual Shareholders Meeting,-0.2263,16.969999313354492,17.13,16.2,16.715590019839258,-1,Decrease,Success
+59,MMYT,Aug-21-20,11:01AM  ,MakeMyTrip: Q1 Earnings Insights,0.0,13.75,14.95,13.75,0.0,0,Neutral,positive
+60,MMYT,Aug-21-20,11:00AM  ,MAKEMYTRIP LIMITED (MMYT) Q1 2021 Earnings Call Transcript,-0.3885,13.75,14.95,13.75,13.554565717517564,-1,Decrease,Failure
+61,MMYT,Aug-18-20,02:30PM  ,"MakeMyTrip Limited to Report Fiscal 2021 First Quarter Financial & Operating Results on August 21, 2020",-0.2263,14.3100004196167,14.5,13.93,14.22600952949719,-1,Decrease,Success
+62,MMYT,Jun-26-20,10:00AM  ,Indias MakeMyTrip Pushes Out Expectations for Profits Even Further Because of Pandemic,0.4404,14.520000457763672,15.42,14.19,14.174526355034804,-1,Neutral,positive
+63,MMYT,Jun-25-20,06:26PM  ,Hedge Funds Are Selling MakeMyTrip Limited (MMYT),-0.2263,17.270000457763672,16.99,14.1,17.30795350204053,1,Neutral,negative
+64,MMYT,Jun-23-20,06:00PM  ,"MakeMyTrip Limited to Report Fiscal 2020 Fourth Quarter and Full Year Financial & Operating Results on June 26, 2020",-0.2263,17.420000076293945,17.26,16.56,17.506886177728543,1,Neutral,negative
+65,MMYT,Jun-19-20,10:26AM  ,P/E Ratio Insights for MakeMyTrip,0.0,17.850000381469727,17.82,17.01,0.0,0,Neutral,negative
+66,MMYT,Apr-08-20,08:48PM  ,Were Hedge Funds Right About MakeMyTrip Limited (MMYT) ?,-0.2263,13.40999984741211,14.15,12.71,13.584918195221936,1,Neutral,negative
+67,MMYT,Mar-30-20,12:37PM  ,Indian travel and hotel booking firm Ixigo cuts salary of every employee over coronavirus,-0.296,12.829999923706055,13.0,11.9,12.79652368859753,-1,Decrease,Success
+68,MMYT,Mar-24-20,01:45PM  ,A Message from MakeMyTrip Limiteds Group Executive Chairman & Group CEO,0.0,12.350000381469727,15.62,12.39,0.0,0,Neutral,positive
+69,MMYT,Feb-25-20,10:37PM  ,Edited Transcript of MMYT earnings conference call or presentation 11-Feb-20 12:30pm GMT,0.0,24.81999969482422,25.07,23.8,0.0,0,Neutral,negative
+70,MMYT,Feb-20-20,08:46AM  ,"MakeMyTrip Limited (MMYT) Shares March Higher, Can It Continue?",0.0772,28.559999465942383,28.6,27.99,28.573952130901706,1,Increase,Success
+71,MMYT,Feb-13-20,09:35AM  ,Top Ranked Momentum Stocks to Buy for February 13th,0.2023,29.459999084472656,29.5,27.97,29.554162569534913,1,Increase,Success
+72,MMYT,Feb-11-20,09:40AM  ,Indias MakeMyTrip Rewards Exec for Loyalty Work With Group CEO Promotion,0.765,29.31999969482422,30.02,28.56,29.452359947985357,1,Increase,Success
+73,MMYT,Jan-27-20,10:30AM  ,"MakeMyTrip Limited to Report Fiscal 2020 Third Quarter Financial & Operating Results on February 11, 2020",-0.2263,22.959999084472656,23.35,22.75,22.893631129411542,-1,Decrease,Success
+74,MMYT,Dec-16-19,04:38PM  ,Should You Avoid MakeMyTrip Limited (MMYT)?,-0.4767,25.190000534057617,25.35,24.68,25.078625736455642,-1,Decrease,Success
+75,MMYT,Nov-12-19,03:29AM  ,Edited Transcript of MMYT earnings conference call or presentation 4-Nov-19 12:30pm GMT,0.0,26.530000686645508,26.36,25.75,0.0,0,Neutral,negative
+76,MMYT,Nov-04-19,07:00PM  ,MakeMyTrip and Oyo Downplay India Regulatory Probe,0.0,26.780000686645508,27.93,26.39,0.0,0,Neutral,positive
+77,MMYT,Oct-30-19,06:20AM  ,Softbank-backed Oyo faces competition probe in India,0.0,22.93000030517578,23.12,22.73,0.0,0,Neutral,positive
+78,MMYT,Oct-29-19,02:40PM  ,MakeMyTrip Limited Responds to Order from Competition Commission of India,-0.2263,22.770000457763672,23.26,22.79,22.66821166877952,-1,Decrease,Failure
+79,MMYT,Oct-29-19,02:21PM  ,"UPDATE 1-India's competition watchdog to probe SoftBank's Oyo, MakeMyTrip",0.0,22.770000457763672,23.26,22.79,0.0,0,Neutral,positive
+80,MMYT,Oct-29-19,11:43AM  ,"India's competition watchdog to probe SoftBank's Oyo, MakeMyTrip",0.0,22.770000457763672,23.26,22.79,0.0,0,Neutral,positive
+81,MMYT,Oct-29-19,11:32AM  ,"India's competition watchdog to probe Softbank's Oyo, MakeMyTrip",0.0,22.770000457763672,23.26,22.79,0.0,0,Neutral,positive
+82,MMYT,Oct-24-19,11:00AM  ,"MakeMyTrip Limited to Report Fiscal 2020 Second Quarter Financial & Operating Results on November 4, 2019",-0.2263,21.75,22.3,21.49,21.763647776260413,1,Neutral,positive
+83,MMYT,Oct-24-19,09:57AM  ,Should You Avoid MakeMyTrip Limited (MMYT)?,-0.4767,21.75,22.3,21.49,21.763647776260413,1,Neutral,positive
+84,MMYT,Oct-16-19,07:00AM  ,Ctrips Bigger Hand in MakeMyTrip May Speed It Toward Break-Even,0.4939,21.799999237060547,22.63,21.67,21.83395282333573,1,Increase,Success
+85,MMYT,Sep-06-19,04:21PM  ,MakeMyTrip Limited Announces Updated Details of Annual Meeting of Shareholders,-0.2263,23.81999969482422,24.16,23.19,23.716690670307827,-1,Decrease,Success
+86,MMYT,Aug-19-19,10:00AM  ,MakeMyTrip Limited Announces Details of Annual Meeting of Shareholders,-0.2263,22.170000076293945,22.88,21.86,22.103534261077577,-1,Decrease,Success
+87,MMYT,Aug-04-19,02:46AM  ,Edited Transcript of MMYT earnings conference call or presentation 30-Jul-19 11:30am GMT,0.0,23.399999618530273,24.0,23.3,0.0,0,Neutral,negative
+88,MMYT,Aug-01-19,06:00AM  ,MakeMyTrip- Global Expert Visits India,0.0,24.690000534057617,24.65,24.36,0.0,0,Neutral,negative
+89,MMYT,Jul-30-19,05:30AM  ,MakeMyTrip Ltd. to Host Earnings Call,0.0,25.8799991607666,25.97,25.18,0.0,0,Neutral,negative
+90,MMYT,Jul-23-19,02:30PM  ,"MakeMyTrip Limited to Report Fiscal 2020 First Quarter Financial & Operating Results on July 30, 2019",-0.2263,27.739999771118164,28.1,27.45,27.66307751371388,-1,Decrease,Success
+91,MMYT,Jun-27-19,04:16PM  ,Here is What Hedge Funds Think About MakeMyTrip Limited (MMYT),-0.2263,25.020000457763672,25.13,24.75,24.954704478763755,-1,Decrease,Success
+92,MMYT,Jun-04-19,09:36AM  ,Edited Transcript of MMYT earnings conference call or presentation 16-May-19 11:30am GMT,0.0,22.969999313354492,23.82,22.53,0.0,0,Neutral,positive
+93,MMYT,May-16-19,04:23PM  ,MAKEMYTRIP LIMITED (MMYT) Q4 2019 Earnings Call Transcript,-0.3885,24.0,24.38,23.08,23.972463100936235,-1,Decrease,Success
+94,MMYT,May-16-19,08:30AM  ,MakeMyTrip: Fiscal 4Q Earnings Snapshot,-0.7034,24.0,24.38,23.08,23.972463100936235,-1,Decrease,Success
+95,MMYT,May-09-19,10:00AM  ,"MakeMyTrip Limited to Report Fiscal 2019 Fourth Quarter & Full Year Financial & Operating Results on May 16, 2019",-0.2263,23.899999618530273,24.05,23.45,24.022471168376818,1,Neutral,negative
+96,MMYT,May-01-19,12:03PM  ,Why MakeMyTrip Stock Fell Yesterday,0.0,25.940000534057617,26.13,25.01,0.0,0,Neutral,negative
+97,MMYT,Apr-30-19,08:45AM  ,MakeMyTrip Limited Acquires Majority Stake in Quest2Travel.com,-0.2263,25.209999084472656,27.25,25.12,25.30958306555641,1,Neutral,positive
+98,MMYT,Apr-29-19,01:02PM  ,Is MakeMyTrip Limited (MMYT) A Good Stock To Buy ?,0.25,28.90999984741211,27.0,24.74,28.805498383223803,-1,Neutral,negative
+99,MMYT,Apr-26-19,09:10AM  ,Chinas Ctrip Will Own Nearly Half of Indias MakeMyTrip After Share Swap,0.296,28.469999313354492,29.12,28.35,28.20626110263899,-1,Neutral,negative

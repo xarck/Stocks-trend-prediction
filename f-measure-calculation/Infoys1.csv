@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,INFY,May-25-22,09:00AM  ,CareAR Expands Collaboration to Accelerate Metaverse Service Experience Transformation,0.1027,1410.449951171875,1430.0,1407.05,1411.199418276579,1,Increase,Success
+1,INFY,May-24-22,11:12AM  ,Baidu (BIDU) to Report Q1 Earnings: What's in the Offing?,0.0,1441.0,1442.5,1399.25,0.0,0,Neutral,negative
+2,INFY,May-23-22,08:18AM  ,"Backcountry Taps Infosys and Google Cloud to Create Seamless, Secure Digital Experience for Outdoor Enthusiasts",0.7096,1468.4000244140625,1469.55,1435.25,1463.9579324531826,-1,Neutral,negative
+3,INFY,May-20-22,02:09PM  ,BOX Gears Up to Report Q1 Earnings: What's in the Cards?,0.0,1455.1500244140625,1488.0,1450.05,0.0,0,Neutral,negative
+4,INFY,May-20-22,11:23AM  ,What's in the Cards for Agilent Technologies' (A) Q2 Earnings?,0.0,1455.1500244140625,1488.0,1450.05,0.0,0,Neutral,negative
+5,INFY,May-19-22,02:08PM  ,Here's Why JP Morgan Downgraded Indian IT Sector To Underweight; Reiterated Overweight On Infosys,0.0085,1427.1500244140625,1466.75,1446.7,1421.637197790116,-1,Neutral,positive
+6,INFY,May-19-22,03:35AM  ,J.P.Morgan downgrades India's IT sector as pandemic boom fades,0.0,1427.1500244140625,1466.75,1446.7,0.0,0,Neutral,positive
+7,INFY,May-05-22,05:54AM  ,Infosys Modernization Radar 2022: Half of Enterprise Legacy Applications to be Modernized in the Next Two Years,0.0,1585.1500244140625,1561.85,1535.05,0.0,0,Neutral,negative
+8,INFY,May-05-22,05:54AM  ,Infosys Modernization Radar 2022: Half of Enterprise Legacy Applications to be Modernized in the Next Two Years,0.0,1585.1500244140625,1561.85,1535.05,0.0,0,Neutral,negative
+9,INFY,May-04-22,09:08AM  ,Manufacturers Alliance Foundation and Infosys Issue Industry Progress Report on Carbon Neutral Goals,0.4215,1535.550048828125,1589.4,1557.45,1536.8640983742723,1,Increase,Success
+10,INFY,May-04-22,08:05AM  ,Manufacturers Alliance Foundation and Infosys Issue Industry Progress Report on Carbon Neutral Goals,0.4215,1535.550048828125,1589.4,1557.45,1536.8640983742723,1,Increase,Success
+11,INFY,Apr-26-22,10:00AM  ,Infosys Collaborates with Nu Skin to Drive Social Commerce-led Transformation in the Beauty and Wellness Sector,0.7717,1581.0,1572.75,1550.35,1582.3596875691646,1,Increase,Failure
+12,INFY,Apr-26-22,09:00AM  ,"Launched: Infosys Cobalt Financial Services Cloud, an Industry Cloud Platform to help Firms Unleash the Power of Cloud-Driven Transformation",0.4939,1581.0,1572.75,1550.35,1582.3596875691646,1,Increase,Failure
+13,INFY,Apr-19-22,09:00AM  ,"Infosys Public Services Introduces Infosys LaborForce, one of the First Cloud-native Unemployment Insurance Solutions in the Industry",-0.296,1562.0,1596.3,1563.0,1556.0487948625812,-1,Decrease,Failure
+14,INFY,Apr-19-22,09:00AM  ,"Infosys Public Services Introduces Infosys LaborForce, one of the First Cloud-native Unemployment Insurance Solutions in the Industry",-0.296,1562.0,1596.3,1563.0,1556.0487948625812,-1,Decrease,Failure
+15,INFY,Apr-19-22,07:36AM  ,"The Zacks Analyst Blog Highlights Tesla, Broadcom, Comcast, Sanofi and Infosys",0.0,1562.0,1596.3,1563.0,0.0,0,Neutral,positive
+16,INFY,Apr-18-22,01:31PM  ,"Top Research Reports for Tesla, Broadcom & Comcast",0.2023,1621.4000244140625,1636.65,1550.0,1612.1644857635374,-1,Neutral,negative
+17,INFY,Apr-18-22,12:21AM  ,Infosys shares fall 9% as profit miss stokes growth normalisation fears,0.5106,1621.4000244140625,1636.65,1550.0,1612.1644857635374,-1,Neutral,negative
+18,INFY,Apr-14-22,04:49PM  ,11 Stocks Making Headlines After Releasing Their Financial Results,0.0,1621.4000244140625,1636.65,1550.0,0.0,0,Neutral,negative
+19,INFY,Apr-13-22,12:22PM  ,Infosys (INFY) Falls 3% as Q4 Earnings & Revenues Miss Estimates,-0.1531,1748.550048828125,1650.0,1590.0,1752.590908602216,1,Neutral,negative
+20,INFY,Apr-13-22,10:19AM  ,Differentiated Cloud Services and Large Deal Momentum Drive Infosys' Highest Annual Growth in a Decade,0.3818,1748.550048828125,1650.0,1590.0,1752.590908602216,1,Increase,Failure
+21,INFY,Apr-13-22,09:39AM  ,Differentiated Cloud Services and Large Deal Momentum Drive Infosys' Highest Annual Growth in a Decade,0.3818,1748.550048828125,1650.0,1590.0,1752.590908602216,1,Increase,Failure
+22,INFY,Apr-13-22,08:17AM  ,"Infosys Clocks 21% Revenue Growth in Q4 Backed By Digital, Cloud Capabilities",0.4019,1748.550048828125,1650.0,1590.0,1752.590908602216,1,Increase,Failure
+23,INFY,Apr-13-22,07:06AM  ,"India's Infosys posts bumper quarter, to move business out of Russia",0.0,1748.550048828125,1650.0,1590.0,0.0,0,Neutral,negative
+24,INFY,Apr-12-22,07:34AM  ,Infosys (INFY) to Report Q4 Earnings: What's in the Offing?,0.0,1742.449951171875,1757.5,1732.0,0.0,0,Neutral,negative
+25,INFY,Apr-11-22,12:07PM  ,Infosys (INFY) & Rolls-Royce Opens Centre for R&D Services,0.0,1766.550048828125,1757.5,1727.75,0.0,0,Neutral,negative
+26,INFY,Apr-10-22,02:50PM  ,UPDATE 1-British finance minister Sunak requests review of his financial declarations,0.0,1766.550048828125,1757.5,1727.75,0.0,0,Neutral,negative
+27,INFY,Apr-07-22,07:26AM  ,Infosys and Rolls-Royce extend strategic collaboration with launch of joint 'Aerospace Engineering and Digital Innovation Centre' in India,0.5106,1811.0,1838.0,1808.0,1814.0988051153645,1,Increase,Success
+28,INFY,Apr-06-22,03:42AM  ,Infosys Ranked #2 and Recognized as a Six-Star Leader in the Everest Group PEAK Matrix® IT Service Provider of the Year 2022 Awards,0.4588,1828.8499755859375,1828.15,1807.55,1830.2449912963984,1,Increase,Failure
+29,INFY,Apr-01-22,02:55PM  ,Tech firm part-owned by Rishi Sunak's wife 'shutting Moscow office' after backlash,0.0,1903.550048828125,1893.0,1873.0,0.0,0,Neutral,negative
+30,INFY,Mar-29-22,02:35PM  ,"Snowflake (SNOW) Launches Cloud Solution, Aids Retail Industry",0.3182,1886.0,1919.0,1895.0,1889.4407381838544,1,Increase,Success
+31,INFY,Mar-25-22,09:50AM  ,Rishi Sunaks wife handed £12m dividend from company with Russian operation,0.0,1876.550048828125,1880.9,1852.65,0.0,0,Neutral,positive
+32,INFY,Mar-23-22,08:01PM  ,EY announces global alliance with Infosys to help organizations accelerate their transformation journeys,0.4019,1872.4000244140625,1894.6,1856.15,1873.092560751177,1,Increase,Success
+33,INFY,Mar-23-22,10:16AM  ,"Infosys (INFY) to Acquire oddity, Boost Digital Portfolio",0.4019,1872.4000244140625,1894.6,1856.15,1873.092560751177,1,Increase,Success
+34,INFY,Mar-22-22,08:04AM  ,"Infosys to Acquire Digital Experience and Marketing Agency, oddity",0.0,1887.4000244140625,1900.0,1857.0,0.0,0,Neutral,negative
+35,INFY,Mar-22-22,08:04AM  ,"Infosys to Acquire Digital Experience and Marketing Agency, oddity",0.0,1887.4000244140625,1900.0,1857.0,0.0,0,Neutral,negative
+36,INFY,Mar-21-22,05:55AM  ,Infosys Recognized as one of the 2022 World's Most Ethical Companies for the Second Consecutive Year by Ethisphere,0.5563,1853.050048828125,1890.0,1839.0,1854.7818003075206,1,Increase,Success
+37,INFY,Mar-21-22,05:40AM  ,Infosys Recognized as one of the 2022 World's Most Ethical Companies for the Second Consecutive Year by Ethisphere,0.5563,1853.050048828125,1890.0,1839.0,1854.7818003075206,1,Increase,Success
+38,INFY,Mar-15-22,10:24AM  ,Trinity-Infosys Applied Learning Initiative Expands to Prepare Talent for Tomorrow's Digital Workplace,0.4939,1839.300048828125,1893.95,1849.0,1824.9070816720475,-1,Neutral,positive
+39,INFY,Mar-10-22,05:49AM  ,Infosys Becomes Digital Innovation Partner for International Tennis Hall of Fame and Title Sponsor of the Hall of Fame Open,0.8126,1825.9000244140625,1831.4,1811.0,1826.6326913422015,1,Increase,Success
+40,INFY,Mar-10-22,05:19AM  ,Infosys Becomes Digital Innovation Partner for International Tennis Hall of Fame and Title Sponsor of the Hall of Fame Open,0.8126,1825.9000244140625,1831.4,1811.0,1826.6326913422015,1,Increase,Success
+41,INFY,Mar-08-22,05:00AM  ,Dow Jones and Infosys Announce Expanded Collaboration to Develop New Human-Centered Digital Experiences,0.0,1778.199951171875,1831.6,1791.0,0.0,0,Neutral,positive
+42,INFY,Mar-08-22,04:52AM  ,Dow Jones and Infosys Announce Expanded Collaboration to Develop New Human-Centered Digital Experiences,0.0,1778.199951171875,1831.6,1791.0,0.0,0,Neutral,positive
+43,INFY,Mar-08-22,04:52AM  ,Dow Jones and Infosys Announce Expanded Collaboration to Develop New Human-Centered Digital Experiences,0.0,1778.199951171875,1831.6,1791.0,0.0,0,Neutral,positive
+44,INFY,Mar-07-22,12:38PM  ,"The Zacks Analyst Blog Highlights Intel, Lockheed Martin, International Business Machines, Berkshire Hathaway and Infosys",0.0,1739.8499755859375,1800.0,1718.45,0.0,0,Neutral,positive
+45,INFY,Mar-07-22,03:04AM  ,"Infosys collaborates with Telenor to transform its finance and supply chain operations through standardized, Oracle Cloud ERP solution",0.3182,1739.8499755859375,1800.0,1718.45,1745.7100554155131,1,Increase,Success
+46,INFY,Mar-04-22,01:50PM  ,"Top Research Reports for Intel, Lockheed Martin & IBM",0.2023,1723.300048828125,1751.0,1696.0,1724.8411500453294,1,Increase,Success
+47,INFY,Mar-03-22,03:07AM  ,"Roland-Garros and Infosys Extend Digital Innovation Partnership for Another Five Years, until 2026",0.5106,1720.8499755859375,1736.0,1681.0,1730.0528304579577,1,Increase,Success
+48,INFY,Mar-03-22,03:07AM  ,"Roland-Garros and Infosys Extend Digital Innovation Partnership for Another Five Years, until 2026",0.5106,1720.8499755859375,1736.0,1681.0,1730.0528304579577,1,Increase,Success
+49,INFY,Feb-24-22,03:58PM  ,7 Low Volatility Stocks to Buy Right Now for Steady Returns,-0.2732,1678.1500244140625,1728.15,1677.0,1666.8926743544337,-1,Decrease,Success
+50,INFY,Feb-24-22,05:28AM  ,Launching Infosys Metaverse Foundry: Service to Accelerate Enterprises' Ability to Evolve and Execute Strategies for Virtual-Physical Interconnections,0.3182,1678.1500244140625,1728.15,1677.0,1666.8926743544337,-1,Neutral,positive
+51,INFY,Feb-24-22,05:18AM  ,Launching Infosys Metaverse Foundry: Service to Accelerate Enterprises' Ability to Evolve and Execute Strategies for Virtual-Physical Interconnections,0.3182,1678.1500244140625,1728.15,1677.0,1666.8926743544337,-1,Neutral,positive
+52,INFY,Feb-22-22,08:14AM  ,Guidewire (GWRE) & Infosys Team Up to Boost Insurer Experience,0.4019,1734.3499755859375,1758.25,1733.4,1731.7699458294273,-1,Neutral,negative
+53,INFY,Feb-18-22,08:55AM  ,Guidewire Announces Infosys as New Consulting Alliance Partner,0.0,1706.949951171875,1737.3,1691.5,0.0,0,Neutral,positive
+54,INFY,Feb-17-22,08:14AM  ,Launching: Infosys Springboard in the U.S. to Increase Access to 21st Century Digital Skills and Opportunities,0.5994,1724.800048828125,1722.5,1703.5,1729.0897709113513,1,Increase,Failure
+55,INFY,Feb-16-22,08:28AM  ,Infosys Foundation USA Partners with CBS's Mission Unstoppable to Spotlight Three Computer Science Teachers Inspiring the Next Generation of STEM Innovators,0.25,1733.300048828125,1749.0,1720.3,1730.0974223614444,-1,Neutral,negative
+56,INFY,Feb-16-22,08:28AM  ,Infosys Foundation USA Partners with CBS's Mission Unstoppable to Spotlight Three Computer Science Teachers Inspiring the Next Generation of STEM Innovators,0.25,1733.300048828125,1749.0,1720.3,1730.0974223614444,-1,Neutral,negative
+57,INFY,Feb-16-22,05:10AM  ,"Zacks Industry Outlook Highlights: Infosys, CDW and Endava",0.0,1733.300048828125,1749.0,1720.3,0.0,0,Neutral,negative
+58,INFY,Feb-15-22,10:41AM  ,Infosys BPM to Hire 400 Skilled Workers in Costa Rica by 2022 to Power Regional Business Growth,0.3818,1738.25,1755.45,1726.85,1757.9616362176018,1,Increase,Success
+59,INFY,Feb-15-22,10:41AM  ,Infosys BPM to Hire 400 Skilled Workers in Costa Rica by 2022 to Power Regional Business Growth,0.3818,1738.25,1755.45,1726.85,1757.9616362176018,1,Increase,Success
+60,INFY,Feb-15-22,09:42AM  ,3 IT Services Stocks to Buy From a Prospering Industry,0.0,1738.25,1755.45,1726.85,0.0,0,Neutral,negative
+61,INFY,Feb-10-22,12:39PM  ,"The Zacks Analyst Blog Highlights AbbVie, The Boeing Company, Infosys Limited, Ford Motor Company and Public Storage",-0.2263,1769.5999755859375,1745.95,1713.0,1779.8309880731981,1,Neutral,negative
+62,INFY,Feb-09-22,12:45PM  ,3 Reasons Growth Investors Will Love Infosys (INFY),0.7783,1737.300048828125,1773.9,1748.75,1745.6122081504768,1,Increase,Success
+63,INFY,Feb-09-22,10:56AM  ,"Top Analyst Reports for AbbVie, Boeing & Infosys",0.2023,1737.300048828125,1773.9,1748.75,1745.6122081504768,1,Increase,Success
+64,INFY,Feb-08-22,09:38AM  ,"OneAscent Wealth Management LLC Buys Apple Inc, Taiwan Semiconductor Manufacturing Co, Ford ...",0.4939,1717.300048828125,1743.0,1725.0,1726.5137140642878,1,Increase,Success
+65,INFY,Feb-08-22,05:12AM  ,Infosys Digital Radar 2022 Finds Technology Adoption Alone No Longer the Key to Unlocking Success and Profits,0.5267,1717.300048828125,1743.0,1725.0,1726.5137140642878,1,Increase,Success
+66,INFY,Feb-08-22,04:51AM  ,Infosys Digital Radar 2022 Finds Technology Adoption Alone No Longer the Key to Unlocking Success and Profits,0.5267,1717.300048828125,1743.0,1725.0,1726.5137140642878,1,Increase,Success
+67,INFY,Feb-07-22,09:38PM  ,"Seafarer Capital Partners, LLC Buys Credicorp, Sells Infosys",0.0,1715.0,1725.0,1696.0,0.0,0,Neutral,positive
+68,INFY,Feb-02-22,09:38AM  ,"Stonehage Fleming Financial Services Holdings Ltd Buys Sea, MercadoLibre Inc, iShares Genomics ...",0.0,1787.0999755859375,1779.0,1734.0,0.0,0,Neutral,negative
+69,INFY,Jan-26-22,05:38PM  ,"Cabot Wealth Management Inc Buys Zillow Group Inc, Chart Industries Inc, Invesco S&P 500 ...",0.4939,1678.5999755859375,1727.55,1679.5,1731.5975338411977,1,Increase,Success
+70,INFY,Jan-26-22,12:08AM  ,Infosys Named the Fastest-Growing IT Services Brand in the World; Among Top 25 Fastest-Growing Brands across Sectors Globally,0.2023,1678.5999755859375,1727.55,1679.5,1731.5975338411977,1,Increase,Success
+71,INFY,Jan-25-22,11:18PM  ,Infosys Named the Fastest-Growing IT Services Brand in the World; Among Top 25 Fastest-Growing Brands across Sectors Globally,0.2023,1722.1500244140625,1709.7,1665.0,1731.4037786330387,1,Increase,Failure
+72,INFY,Jan-25-22,10:00AM  ,Here's Why Infosys (INFY) Is a Great 'Buy the Bottom' Stock Now,0.6249,1722.1500244140625,1709.7,1665.0,1731.4037786330387,1,Increase,Failure
+73,INFY,Jan-20-22,07:58AM  ,"The Zacks Analyst Blog Highlights: Roche Holding AG, Anthem, Inc. and Infosys Limited",-0.2263,1823.699951171875,1808.0,1776.0,1826.5019781758779,1,Neutral,negative
+74,INFY,Jan-20-22,05:38AM  ,Infosys Recognized as Global Top Employer for the Second Consecutive Year; Ranked #1 in India Again,0.2023,1823.699951171875,1808.0,1776.0,1826.5019781758779,1,Increase,Failure
+75,INFY,Jan-20-22,05:13AM  ,Infosys Recognized as Global Top Employer for the Second Consecutive Year; Ranked #1 in India Again,0.2023,1823.699951171875,1808.0,1776.0,1826.5019781758779,1,Increase,Failure
+76,INFY,Jan-19-22,01:08PM  ,"Top Research Reports for Roche, Anthem & Infosys",0.2023,1867.050048828125,1848.0,1815.5,1863.74464447043,-1,Neutral,negative
+77,INFY,Jan-19-22,12:27PM  ,Oracle (ORCL) Cloud Selected by Xerox to Support New Ventures,0.4019,1867.050048828125,1848.0,1815.5,1863.74464447043,-1,Neutral,negative
+78,INFY,Jan-17-22,09:21AM  ,6 Reasons to Add Infosys (INFY) Stock to Your Portfolio,0.0,1939.5,1945.0,1911.45,0.0,0,Neutral,negative
+79,INFY,Jan-14-22,05:38PM  ,"Butensky & Cohen Financial Security, Inc Buys Atmos Energy Corp, Micron Technology Inc, MSC ...",0.5423,1929.3499755859375,1953.9,1930.5,1932.289701455707,1,Increase,Success
+80,INFY,Jan-13-22,09:40AM  ,Is Infosys (INFY) Outperforming Other Computer and Technology Stocks This Year?,0.0,1896.800048828125,1933.0,1881.0,0.0,0,Neutral,positive
+81,INFY,Jan-13-22,09:38AM  ,"Company News for Jan 13, 2022",0.0,1896.800048828125,1933.0,1881.0,0.0,0,Neutral,positive
+82,INFY,Jan-12-22,11:11PM  ,"Indian shares end higher as firmer metals offset slide in Wipro, banks",0.296,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+83,INFY,Jan-12-22,04:10PM  ,Infosys Stock Climbs As Tech Services Firm Raises Revenue Outlook,0.0,1877.449951171875,1912.5,1866.35,0.0,0,Neutral,positive
+84,INFY,Jan-12-22,12:01PM  ,"Infosys stock surges toward a record after revenue beat, raised growth outlook",0.3818,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+85,INFY,Jan-12-22,08:42AM  ,Infosys (INFY) Rallies 4% as Q3 Earnings Beat Estimates,0.0,1877.449951171875,1912.5,1866.35,0.0,0,Neutral,positive
+86,INFY,Jan-12-22,07:53AM  ,"Infosys: Revenue guidance for FY22 revised upwards to 19.5%-20.0%, powered by sequential growth of 7.0% in Q3",0.3818,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+87,INFY,Jan-12-22,07:27AM  ,"Infosys: Revenue guidance for FY22 revised upwards to 19.5%-20.0%, powered by sequential growth of 7.0% in Q3",0.3818,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+88,INFY,Jan-12-22,06:01AM  ,UPDATE 3-India's Infosys lifts annual revenue forecast on robust deal pipeline,0.34,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+89,INFY,Jan-12-22,05:51AM  ,India's Infosys lifts annual revenue forecast on robust deal pipeline,0.34,1877.449951171875,1912.5,1866.35,1882.9637529195184,1,Increase,Success
+90,INFY,Jan-12-22,05:07AM  ,Infosys Jumps After Raising Forecast for Annual Revenue,0.0,1877.449951171875,1912.5,1866.35,0.0,0,Neutral,positive
+91,INFY,Jan-11-22,10:00AM  ,Infosys (INFY) Recently Broke Out Above the 20-Day Moving Average,-0.4215,1855.5999755859375,1889.0,1860.0,1854.361808778163,-1,Decrease,Failure
+92,INFY,Jan-10-22,07:39AM  ,Factors to Note Ahead of Infosys' (INFY) Q3 Earnings Release,0.0,1850.75,1870.0,1850.15,0.0,0,Neutral,positive
+93,INFY,Jan-03-22,02:10PM  ,10 Tech Stocks to Buy According to Billionaire David Harding,0.0,1898.449951171875,1906.65,1878.0,0.0,0,Neutral,negative
+94,INFY,Dec-30-21,05:17AM  ,"The Zacks Analyst Blog Highlights: Apple, Abbott Laboratories, Infosys, General Motors and NIO",0.0,1892.8499755859375,1898.35,1871.65,0.0,0,Neutral,negative
+95,INFY,Dec-29-21,12:57PM  ,"Top Stock Reports for Apple, Abbott & Infosys",0.2023,1885.550048828125,1909.8,1874.35,1883.3786939677752,-1,Neutral,positive
+96,INFY,Dec-24-21,10:08AM  ,5 Best Emerging Market Stocks to Tap 2022 Market Rebound,0.6369,1863.5,1874.5,1845.05,1862.4383581779,-1,Neutral,positive
+97,INFY,Dec-20-21,11:08AM  ,Infosys (INFY) & Australian Open Tie Up for Digital Innovation,0.3818,1798.9000244140625,1838.0,1801.0,1789.0069652969883,-1,Neutral,positive
+98,INFY,Dec-17-21,05:38PM  ,"Fiera Capital Corp Buys Devon Energy Corp, Gartner Inc, Ares Management Corp, Sells Rogers ...",0.2732,1820.8499755859375,1829.65,1787.3,1823.2244376076337,1,Increase,Success
+99,INFY,Dec-17-21,12:38PM  ,"Columbia ETF Trust II Buys Taiwan Semiconductor Manufacturing Co, Samsung Electronics Co, HDFC Bank",0.5106,1820.8499755859375,1829.65,1787.3,1823.2244376076337,1,Increase,Success

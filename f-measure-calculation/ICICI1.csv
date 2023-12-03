@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,IBN,Apr-25-22,09:43PM  ,Musk Seals $44 Billion Deal Even He Wasnt Sure Would Succeed,-0.5559,19.43000030517578,19.37,19.1,19.454309670285426,1,Neutral,negative
+1,IBN,Apr-25-22,05:07PM  ,Meta creating a physical building for its metaverse products,0.296,19.43000030517578,19.37,19.1,19.454309670285426,1,Increase,Failure
+2,IBN,Apr-25-22,04:57PM  ,Elon Musk Lands Deal to Take Twitter Private for $44 Billion,0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+3,IBN,Apr-25-22,03:50PM  ,"Some FAANG names are still high-growth internet companies, portfolio manager says",0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+4,IBN,Apr-25-22,03:36PM  ,Meta joins tech retail crush with new store in Burlingame,-0.1531,19.43000030517578,19.37,19.1,19.454309670285426,1,Neutral,negative
+5,IBN,Apr-25-22,01:05PM  ,Meta earnings could be another dud: Strategist,-0.25,19.43000030517578,19.37,19.1,19.454309670285426,1,Neutral,negative
+6,IBN,Apr-25-22,11:47AM  ,"Copycatting TikTok is a big trend, analyst says after Snap earnings",0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+7,IBN,Apr-25-22,11:00AM  ,Meta to Open Retail Store to Showcase Virtual Reality Hardware,0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+8,IBN,Apr-25-22,10:42AM  ,"Big Tech earnings will be a mixed bag, analyst says",0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+9,IBN,Apr-25-22,09:37AM  ,"Big Tech is the stock market, strategist explains",0.0,19.43000030517578,19.37,19.1,0.0,0,Neutral,negative
+10,IBN,Apr-25-22,08:49AM  ,ICICI Bank's (IBN) Q4 Earnings Improve on Rising Loan Demand,0.34,19.43000030517578,19.37,19.1,19.454309670285426,1,Increase,Failure
+11,IBN,Apr-24-22,01:00PM  ,"How Netflixs Awful Week Mars Its 20,000% Climb in Four Charts",-0.4588,19.43000030517578,19.37,19.1,18.911533248078584,-1,Decrease,Success
+12,IBN,Apr-23-22,08:00AM  ,Tech Giants Face Landmark Fines Under EUs New Content Rules,0.0772,19.43000030517578,19.37,19.1,18.9104882575298,-1,Neutral,negative
+13,IBN,Apr-22-22,04:47PM  ,Tech companies gear up to report earnings next week,0.0,18.8700008392334,19.49,18.82,0.0,0,Neutral,positive
+14,IBN,Apr-22-22,04:26PM  ,"Stocks sell off into the close, S&P 500 on pace for third-straight losing week",-0.3818,18.8700008392334,19.49,18.82,18.92422284350312,1,Neutral,positive
+15,IBN,Apr-22-22,04:16PM  ,Meta Earnings Are Coming; Heres What Matters,0.0258,18.8700008392334,19.49,18.82,18.92422284350312,1,Increase,Success
+16,IBN,Apr-22-22,03:34PM  ,Market sell-off indicates investors think the Fed is behind the curve: Strategist,0.0,18.8700008392334,19.49,18.82,0.0,0,Neutral,positive
+17,IBN,Apr-22-22,03:29PM  ,Markets check: Stocks extend losses as Dow eyes worst day of 2022,-0.7269,18.8700008392334,19.49,18.82,18.92422284350312,1,Neutral,positive
+18,IBN,Apr-22-22,02:38PM  ,Why we need Silicon Valley to combat climate change: Former Reddit CEO Yishan Wong,-0.34,18.8700008392334,19.49,18.82,18.92422284350312,1,Neutral,positive
+19,IBN,Apr-22-22,10:13AM  ,"Oil extends losses, health care stocks lag, pandemic stocks plunge",-0.1027,18.8700008392334,19.49,18.82,18.92422284350312,1,Neutral,positive
+20,IBN,Apr-22-22,07:00AM  ,Cancelling Netflix wont solve energy price crunch,-0.4949,18.8700008392334,19.49,18.82,18.92422284350312,1,Neutral,positive
+21,IBN,Apr-21-22,08:03PM  ,Obama says social media must be fixed: People are dying because of misinformation,-0.3182,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+22,IBN,Apr-21-22,07:48PM  ,Musk Wants Free Speech on Twitter After Spending Years Silencing Critics,0.1531,19.639999389648438,19.53,18.81,19.614858033806904,-1,Neutral,negative
+23,IBN,Apr-21-22,05:36PM  ,"Obama tackles disinformation: 'Our prejudices aren't challenged, they're reinforced'",-0.362,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+24,IBN,Apr-21-22,05:36PM  ,Metas Sheryl Sandberg reportedly sought to quash article about Activision CEO,0.0,19.639999389648438,19.53,18.81,0.0,0,Neutral,negative
+25,IBN,Apr-21-22,04:58PM  ,Analyst on social media platforms: Copycatting TikTok is a big trend right now,0.0,19.639999389648438,19.53,18.81,0.0,0,Neutral,negative
+26,IBN,Apr-21-22,04:56PM  ,Obama Says Social Media Falsehoods Spur Skepticism on Politics,-0.25,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+27,IBN,Apr-21-22,04:46PM  ,Snap Rises After Reporting User Growth Ahead of Estimates,0.3818,19.639999389648438,19.53,18.81,19.614858033806904,-1,Neutral,negative
+28,IBN,Apr-21-22,04:34PM  ,Former President Obamas new campaign aims to fight disinformation,-0.3818,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+29,IBN,Apr-21-22,04:12PM  ,"Stocks fall, Treasury yields rise as investors react to possible rate hike",0.2023,19.639999389648438,19.53,18.81,19.614858033806904,-1,Neutral,negative
+30,IBN,Apr-21-22,12:30PM  ,Apple Spends Record on Lobbying Amid Pressure from Congress,-0.3612,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+31,IBN,Apr-21-22,11:13AM  ,Facebook's Sandberg allegedly pressured tabloid to drop story about Activision CEO Bobby Kotick: WSJ,-0.4588,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+32,IBN,Apr-21-22,09:40AM  ,Market strategist: Investor pessimism rises amid tumultuous year for stocks,-0.3612,19.639999389648438,19.53,18.81,19.614858033806904,-1,Decrease,Success
+33,IBN,Apr-20-22,04:13PM  ,Techs Endless Growth Machine Sputters as Investors Lose Faith,0.4019,19.709999084472656,20.01,19.46,19.725988902763515,1,Increase,Success
+34,IBN,Apr-20-22,04:09PM  ,"Stocks end the day mixed with Netflix, Peloton, and Tesla among biggest laggards",0.0,19.709999084472656,20.01,19.46,0.0,0,Neutral,negative
+35,IBN,Apr-20-22,03:59PM  ,Top 10 S&P 500 Stocks by Index Weight for July 2021,0.2023,19.709999084472656,20.01,19.46,19.725988902763515,1,Increase,Success
+36,IBN,Apr-20-22,03:21PM  ,Markets check: Stocks mixed as Netflix weighs down the Nasdaq,0.0,19.709999084472656,20.01,19.46,0.0,0,Neutral,negative
+37,IBN,Apr-20-22,03:16PM  ,Netflix running ads may have one big downside effect: analyst,-0.25,19.709999084472656,20.01,19.46,19.725988902763515,1,Neutral,negative
+38,IBN,Apr-20-22,02:19PM  ,Is Meta the next tech stock to get routed like Netflix?,0.3612,19.709999084472656,20.01,19.46,19.725988902763515,1,Increase,Success
+39,IBN,Apr-20-22,01:43PM  ,Netflix is a broken growth story: top tech analyst,0.0772,19.709999084472656,20.01,19.46,19.725988902763515,1,Increase,Success
+40,IBN,Apr-20-22,11:38AM  ,"Netflix's best days are behind it, says analyst who predicted the stock's crash",0.3612,19.709999084472656,20.01,19.46,19.725988902763515,1,Increase,Success
+41,IBN,Apr-20-22,10:30AM  ,Why Coinbase is one of the most disruptive companies: Analyst,-0.3804,19.709999084472656,20.01,19.46,19.725988902763515,1,Neutral,negative
+42,IBN,Apr-20-22,10:22AM  ,"Market check: Nasdaq turns red as Netflix, Tesla, Meta stocks drop",-0.2732,19.709999084472656,20.01,19.46,19.725988902763515,1,Neutral,negative
+43,IBN,Apr-20-22,09:25AM  ,Google and Meta impose social media curbs on Hong Kongs sole leadership candidate,-0.296,19.709999084472656,20.01,19.46,19.725988902763515,1,Neutral,negative
+44,IBN,Apr-20-22,08:21AM  ,Elon Musks Twitter Gambit Tees Up a Whos In-or-Out White Knight List,0.0,19.709999084472656,20.01,19.46,0.0,0,Neutral,negative
+45,IBN,Apr-20-22,06:34AM  ,YouTube Shuts Channel of Hong Kongs Leadership Candidate,0.0,19.709999084472656,20.01,19.46,0.0,0,Neutral,negative
+46,IBN,Apr-20-22,12:00AM  ,Meta suffers setback with WhatsApp business payments in Brazil,-0.4767,19.709999084472656,20.01,19.46,19.725988902763515,1,Neutral,negative
+47,IBN,Apr-18-22,04:11PM  ,"Amazon to Undergo Racial Audit, Led by Former AG Lynch",0.1779,19.549999237060547,19.99,19.61,19.528374718002443,-1,Neutral,negative
+48,IBN,Apr-12-22,10:00AM  ,Ocugen's study of Covid-19 vaccine Covaxin put on hold in wake of WHO inspection of Bharat,0.0,19.700000762939453,19.83,19.6,0.0,0,Neutral,positive
+49,IBN,Apr-12-22,08:31AM  ,"Ocugen, Inc. Provides Update on its Phase 2/3 Study of COVAXIN (BBV152)",0.0,19.700000762939453,19.83,19.6,0.0,0,Neutral,positive
+50,IBN,Apr-08-22,12:15PM  ,Lab Notes: Venatorx closes Series C financing; Ocugen takes 'critical' step in clinical trial,0.0,19.8799991607666,20.0,19.77,0.0,0,Neutral,negative
+51,IBN,Feb-02-22,05:38PM  ,"Matthews International Capital Management Llc Buys Atlassian Corporation PLC, Pinduoduo Inc, ...",0.0,21.889999389648438,21.73,21.45,0.0,0,Neutral,negative
+52,IBN,Jan-31-22,01:05PM  ,IBN: IBD Stock Of The Day Icici Bank Flashes Buy Signal After Solid Earnings,0.1531,21.729999542236328,21.93,21.61,21.7835169952258,1,Increase,Success
+53,IBN,Jan-25-22,12:45PM  ,Looking for a Growth Stock? 3 Reasons Why ICICI Bank Limited (IBN) is a Solid Choice,0.3182,20.940000534057617,21.22,20.69,21.020287988416115,1,Increase,Success
+54,IBN,Jan-25-22,12:00PM  ,What Makes ICICI Bank Limited (IBN) a New Buy Stock,-0.2263,20.940000534057617,21.22,20.69,21.020287988416115,1,Neutral,positive
+55,IBN,Jan-25-22,08:10AM  ,ICICI Bank (IBN) Q3 Earnings Growth Fails to Drive Stock,-0.0516,20.940000534057617,21.22,20.69,21.020287988416115,1,Neutral,positive
+56,IBN,Dec-17-21,08:16PM  ,Is ICICI Bank Limited (IBN) A Good Stock To Buy?,0.25,18.809999465942383,18.53,18.37,18.86493836478261,1,Increase,Failure
+57,IBN,Dec-17-21,05:38PM  ,"Fiera Capital Corp Buys Devon Energy Corp, Gartner Inc, Ares Management Corp, Sells Rogers ...",0.2732,18.809999465942383,18.53,18.37,18.86493836478261,1,Increase,Failure
+58,IBN,Dec-17-21,12:38PM  ,"Columbia ETF Trust II Buys Taiwan Semiconductor Manufacturing Co, Samsung Electronics Co, HDFC Bank",0.5106,18.809999465942383,18.53,18.37,18.86493836478261,1,Increase,Failure
+59,IBN,Dec-10-21,05:38PM  ,"Legg Mason Global Asset Management Trust Buys Taiwan Semiconductor Manufacturing Co, Cosan SA, ...",0.7003,19.899999618530273,19.79,19.5,19.866137460559624,-1,Neutral,negative
+60,IBN,Nov-23-21,09:51AM  ,7 Growth Stocks to Benefit From a Mark Mobius-Like India,0.6808,19.5,19.92,19.53,19.51281027857242,1,Increase,Success
+61,IBN,Oct-26-21,06:59AM  ,ICICI Bank (IBN) Stock Hits All-Time High as Q2 Earnings Jump,0.0,21.700000762939453,21.88,21.63,0.0,0,Neutral,negative
+62,IBN,Oct-25-21,02:27PM  ,Why ICICI Bank Stock Just Soared to All-Time Highs,0.0,21.8700008392334,21.98,21.68,0.0,0,Neutral,negative
+63,IBN,Oct-25-21,07:18AM  ,ICICI Bank Shares Jump as Loan Growth Buoys Profit to Record,0.7717,21.8700008392334,21.98,21.68,21.863157646827926,-1,Neutral,negative
+64,IBN,Oct-25-21,01:56AM  ,India's ICICI Bank jumps to record high on robust second-quarter profit,0.6486,21.8700008392334,21.98,21.68,21.863157646827926,-1,Neutral,negative
+65,IBN,Oct-18-21,09:02AM  ,Is ICICI Bank Limited (IBN) Going to Burn These Hedge Funds?,-0.2263,19.899999618530273,20.1,19.86,19.877061126942536,-1,Decrease,Success
+66,IBN,Jul-30-21,05:35PM  ,ICICI Bank Limited Files Annual Report in Form 20-F,-0.2263,18.59000015258789,18.57,18.34,18.606537564128445,1,Neutral,positive
+67,IBN,Jul-26-21,07:06AM  ,"ICICI Bank's (IBN) Q1 Earnings Up Y/Y, Provisions Decline",0.0,18.360000610351562,18.39,18.12,0.0,0,Neutral,positive
+68,IBN,Jul-24-21,08:54AM  ,ICICI Banks Profit Surges 78% as Bad Loan Buffers Decline,-0.1531,18.360000610351562,18.39,18.12,18.325629399409607,-1,Decrease,Success
+69,IBN,Jul-24-21,08:00AM  ,"Morgan Stanley, Pool Lead 5 Stocks Near Buy Points After Strong Earnings",0.5106,18.360000610351562,18.39,18.12,18.325629399409607,-1,Neutral,positive
+70,IBN,Jul-06-21,12:19AM  ,Do Hedge Funds Love ICICI Bank Limited (IBN)?,0.5106,17.309999465942383,17.6,17.37,17.320429995410414,1,Increase,Success
+71,IBN,May-21-21,10:56AM  ,7 Best Blue-Chip Stocks Under $20 for Your Buy List,0.6369,17.639999389648438,17.86,17.7,17.656055561324127,1,Increase,Success
+72,IBN,May-20-21,01:45PM  ,Top 5 1st-Quarter Trades of Steve Mandel's Lone Pine,-0.0772,17.219999313354492,17.72,17.59,17.223437286575724,1,Neutral,positive
+73,IBN,May-13-21,05:39AM  ,"India's cenbank tells lenders to re-consider ties with crypto exchanges, traders",0.0,16.15999984741211,16.58,16.28,0.0,0,Neutral,positive
+74,IBN,Apr-30-21,03:37PM  ,ICICI Bank UK PLC -- Moody's announces completion of a periodic review of ratings of ICICI Bank UK PLC,0.0,16.299999237060547,16.47,16.22,0.0,0,Neutral,positive
+75,IBN,Apr-26-21,08:09AM  ,"ICICI Bank's (IBN) Q4 Earnings Rise Y/Y, Provisions Decline",0.0,15.9399995803833,16.25,15.94,0.0,0,Neutral,positive
+76,IBN,Apr-26-21,12:08AM  ,"Nifty, Sensex ride high on ICICI Bank, Reliance surge",0.4019,15.9399995803833,16.25,15.94,15.871658589301866,-1,Neutral,positive
+77,IBN,Apr-14-21,12:05PM  ,Is IBN Stock A Buy or Sell,0.0,14.760000228881836,15.42,15.24,0.0,0,Neutral,positive
+78,IBN,Feb-07-21,07:30AM  ,Indias Budget Spurs Optimism. Why Investors Should Proceed With Caution.,0.5423,17.649999618530273,17.74,17.51,17.699188719270147,1,Increase,Success
+79,IBN,Feb-05-21,11:25AM  ,3 Fast Growing Revenue Stock Picks,0.1779,17.559999465942383,17.67,17.49,17.69504887034512,1,Increase,Success
+80,IBN,Feb-01-21,08:17AM  ,"ICICI Bank's (IBN) Q3 Earnings Rise Y/Y, Provisions Jump",0.0,17.0,17.46,17.11,0.0,0,Neutral,positive
+81,IBN,Jan-31-21,11:39PM  ,ICICI Bank hits record high on upbeat December quarter results,0.0,17.0,17.46,17.11,0.0,0,Neutral,positive
+82,IBN,Dec-21-20,06:00AM  ,ICICI Bank Canada Visa* Debit Card launched,0.128,13.680000305175781,13.74,13.63,13.741708670662574,1,Increase,Success
+83,IBN,Dec-07-20,12:00PM  ,Should You Bank On Icici Stock? It's Closing In On A Key Technical Measure,0.0,13.949999809265137,13.93,13.76,0.0,0,Neutral,positive
+84,IBN,Nov-02-20,06:47AM  ,"ICICI Bank's (IBN) Q2 Earnings Up Y/Y, Provisions Increase",0.3182,11.5600004196167,12.28,11.96,11.561401259766548,1,Increase,Success
+85,IBN,Oct-31-20,09:38AM  ,ICICI Bank Posts Record Profit on Expected Dip in Bad Loans,-0.1531,11.5600004196167,12.28,11.96,10.465244553494255,-1,Decrease,Failure
+86,IBN,Oct-28-20,02:36AM  ,"ICICI Bank Limited, Bahrain Branch -- Moody's withdraws ratings of ICICI Bank's Bahrain Branch for business reasons",-0.2263,10.5600004196167,10.71,10.55,10.528534200478543,-1,Decrease,Success
+87,IBN,Oct-21-20,12:56PM  ,ICICI Bank UK PLC -- Moody's downgrades the long-term deposit and debt ratings of ICICI Bank UK PLC,-0.3612,11.460000038146973,11.4,11.26,11.484185550327245,1,Neutral,negative
+88,IBN,Oct-16-20,09:44PM  ,ICICI Bank UK PLC -- Moody's announces completion of a periodic review of ratings of ICICI Bank UK PLC,0.0,10.960000038146973,11.47,11.29,0.0,0,Neutral,positive
+89,IBN,Oct-15-20,10:45AM  ,"ICICI Bank Limited, Hong Kong Branch -- Moody's announces completion of a periodic review of ratings of ICICI Bank Limited",-0.4215,10.869999885559082,10.98,10.87,10.890133030793782,1,Neutral,positive
+90,IBN,Oct-12-20,11:22AM  ,ICICI Bank Limited (IBN) Fell Out Of Favor With Hedge Funds,0.2023,11.050000190734863,10.87,10.78,11.05447539838354,1,Increase,Failure
+91,IBN,Sep-03-20,02:22AM  ,Indian shares up after services activity survey,0.296,10.40999984741211,10.45,10.04,10.499770222674153,1,Increase,Success
+92,IBN,Aug-26-20,10:38AM  ,ICICI Bank Makes Use of Satellite Data to Assess Farm Loans,0.0,10.529999732971191,10.79,10.6,0.0,0,Neutral,positive
+93,IBN,Aug-25-20,06:28AM  ,India's ICICI Bank uses space images for farm loans to cut costs,-0.2732,10.680000305175781,10.69,10.43,10.662925261185705,-1,Decrease,Success
+94,IBN,Aug-25-20,06:03AM  ,ICICI Bank uses satellite images for farm loans to cut costs,-0.2732,10.680000305175781,10.69,10.43,10.662925261185705,-1,Decrease,Success
+95,IBN,Aug-16-20,03:50AM  ,Indias ICICI Bank Raises $2 Billion Via Institutional Placement,0.0,9.920000076293945,10.24,10.02,0.0,0,Neutral,positive
+96,IBN,Aug-11-20,11:35PM  ,Worlds Most Favored Bank Stock Misses India Market Rebound,0.2944,10.140000343322754,10.12,9.99,10.118025297586913,-1,Neutral,negative
+97,IBN,Aug-11-20,12:04AM  ,"Sensex, Nifty end higher as private sector banks rally",0.4019,10.140000343322754,10.12,9.99,10.118025297586913,-1,Neutral,negative
+98,IBN,Jul-31-20,10:56PM  ,ICICI Bank Limited Files Annual Report in Form 20-F,-0.2263,9.390000343322754,9.33,9.22,9.391773952788945,1,Neutral,positive
+99,IBN,Jul-27-20,11:30AM  ,"ICICI Bank's (IBN) Q1 Earnings Rise Y/Y, Provisions Surge",0.0,9.850000381469727,9.63,9.49,0.0,0,Neutral,negative

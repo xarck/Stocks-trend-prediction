@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,TTM,May-28-22,10:54AM  ,Cars and 'collabs': luxury watchmakers turn to autos for inspiration,0.5267,429.6000061035156,0.0,0.0,431.04347517299703,1,Increase,Failure
+1,TTM,May-26-22,03:08PM  ,Jaguar Land Rover threatens to shift electric car battery production to Europe,-0.3818,420.70001220703125,433.0,424.0,420.4261154075822,-1,Decrease,Failure
+2,TTM,May-23-22,03:09AM  ,India's Mahindra to explore more partnerships for EV parts -CEO,0.0,421.6000061035156,427.5,416.0,0.0,0,Neutral,negative
+3,TTM,May-13-22,05:53PM  ,Range Rover Sport to go electric as Jaguar Land Rover grapples with chip crisis,-0.6249,404.3500061035156,411.85,396.2,399.3950119793327,-1,Decrease,Success
+4,TTM,May-13-22,12:25AM  ,Indian shares track broader Asian stocks higher; Reliance jumps,0.296,404.3500061035156,411.85,396.2,399.3950119793327,-1,Neutral,positive
+5,TTM,May-13-22,12:25AM  ,Indian shares end lower on SBI slump,0.0,404.3500061035156,411.85,396.2,0.0,0,Neutral,positive
+6,TTM,May-12-22,07:28AM  ,UPDATE 2-Tata Motors warns of price and chip risks as demand improves,-0.0516,372.1000061035156,415.75,386.3,373.15470934346797,1,Neutral,positive
+7,TTM,May-11-22,10:47AM  ,"India's Tata Group readying plan for battery company in India, abroad",0.0,387.8999938964844,384.35,366.05,0.0,0,Neutral,positive
+8,TTM,May-11-22,10:22AM  ,"India's Tata Group readying plan for battery company in India, abroad",0.0,387.8999938964844,384.35,366.05,0.0,0,Neutral,positive
+9,TTM,May-01-22,07:09PM  ,"Tata, India's electric vehicle king, takes a frugal road less travelled",0.0,432.75,440.55,420.9,0.0,0,Neutral,negative
+10,TTM,May-01-22,07:00PM  ,"FOCUS-Tata, India's electric vehicle king, takes a frugal road less travelled",0.0,432.75,440.55,420.9,0.0,0,Neutral,negative
+11,TTM,Apr-29-22,07:43AM  ,UPDATE 1-Tata Motors maps out long-range EVs for India and beyond,0.0,437.54998779296875,443.0,428.5,0.0,0,Neutral,negative
+12,TTM,Apr-29-22,05:21AM  ,Tata Motors maps out long-range EVs for India and beyond,0.0,437.54998779296875,443.0,428.5,0.0,0,Neutral,negative
+13,TTM,Apr-06-22,04:48AM  ,India's Tata Motors plans longer range EVs in 2 years with new design,0.0,456.1499938964844,459.0,448.3,0.0,0,Neutral,negative
+14,TTM,Apr-06-22,04:39AM  ,India's Tata Motors plans longer range EVs in 2 years with new design,0.0,456.1499938964844,459.0,448.3,0.0,0,Neutral,negative
+15,TTM,Apr-01-22,10:02AM  ,Car sales in India rise but automakers warn of supply chain disruptions,-0.5719,441.1000061035156,449.35,441.35,440.30741968822997,-1,Decrease,Failure
+16,TTM,Mar-30-22,03:58PM  ,Lotus unveils the world's first electric hyper-SUV  the Eletre,0.0,435.6499938964844,438.25,432.45,0.0,0,Neutral,positive
+17,TTM,Mar-30-22,03:17PM  ,Pandemic-fueled luxury car boom is to here to stay: J.D. Power,0.0,435.6499938964844,438.25,432.45,0.0,0,Neutral,positive
+18,TTM,Mar-29-22,03:36AM  ,Tata Motors says 20% rise in battery cell costs increasing short-term pressure,-0.296,433.54998779296875,442.35,434.6,433.6421237270879,1,Neutral,positive
+19,TTM,Mar-25-22,12:57PM  ,Jaguar Land Rover in talks for British gigafactory,0.0,432.04998779296875,434.95,426.35,0.0,0,Neutral,positive
+20,TTM,Mar-17-22,02:03PM  ,Fed Trying to Play Catch-Up (Capital Market Research) (Weekly Market Outlook),0.34,433.79998779296875,436.05,427.1,433.43111908945355,-1,Neutral,negative
+21,TTM,Mar-01-22,07:33PM  ,Jaguar Land Rover suspends sales to Russia,0.0,447.6000061035156,459.95,435.0,0.0,0,Neutral,negative
+22,TTM,Mar-01-22,11:01AM  ,Carmakers hit the brakes on Russia as sanctions bite,0.0,447.6000061035156,459.95,435.0,0.0,0,Neutral,negative
+23,TTM,Mar-01-22,07:34AM  ,"UPDATE 2-Jaguar, Aston Martin pause Russian deliveries over sanctions",0.0,447.6000061035156,459.95,435.0,0.0,0,Neutral,negative
+24,TTM,Feb-25-22,06:00AM  ,5 Autonomous Vehicles Stocks to Buy as Nvidia-Jaguar Deal Revs Up,0.0,459.6000061035156,457.25,442.3,0.0,0,Neutral,negative
+25,TTM,Feb-25-22,03:59AM  ,UK car production plummets to 13-year low in January,-0.2732,459.6000061035156,457.25,442.3,452.05887348364195,-1,Decrease,Success
+26,TTM,Feb-17-22,11:00AM  ,"Nvidia Flexed Its Muscles Again, So Why Is It Down After Earnings?",0.0,500.0,502.75,491.5,0.0,0,Neutral,negative
+27,TTM,Feb-16-22,09:07AM  ,"Jaguar Land Rover, Nvidia ally in vehicle software arms race",0.0,498.20001220703125,511.4,498.3,0.0,0,Neutral,negative
+28,TTM,Feb-16-22,09:00AM  ,"Jaguar Land Rover, Nvidia ally in vehicle software arms race",0.0,498.20001220703125,511.4,498.3,0.0,0,Neutral,negative
+29,TTM,Jan-31-22,05:22AM  ,"JLR owner Tata Motors posts quarterly loss, warns of higher costs",-0.4019,517.5,514.65,493.2,521.5956101587756,1,Neutral,negative
+30,TTM,Jan-27-22,05:38PM  ,"Investors Research Corp Buys SPDR Portfolio S&P 500 Growth ETF, VictoryShares Dividend ...",0.3818,494.25,509.3,495.5,495.3782938267475,1,Increase,Success
+31,TTM,Jan-13-22,10:27AM  ,Alternative Asset Management Firm TPG Launches IPO,0.3612,511.95001220703125,515.3,505.65,515.8620734803677,1,Increase,Success
+32,TTM,Dec-20-21,05:05AM  ,You wont believe what people are paying for cars now,0.0,447.1499938964844,460.9,450.05,0.0,0,Neutral,positive
+33,TTM,Dec-12-21,01:23PM  ,Jaguar and Porsche back pay-later app for car repairs,0.0,495.25,492.0,483.35,0.0,0,Neutral,negative
+34,TTM,Dec-08-21,01:34PM  ,Top Car Stocks for Q1 2022,0.2023,493.75,498.9,489.6,499.28559922377246,1,Increase,Success
+35,TTM,Dec-03-21,09:01AM  ,9 Best Indian Stocks to Buy Right Now,0.6369,480.0,482.4,465.95,480.17644537638114,1,Increase,Success
+36,TTM,Dec-01-21,04:43AM  ,India's biggest car dealer Popular plans $100 million listing - source,0.4215,475.3500061035156,480.2,471.75,473.4111395584497,-1,Neutral,positive
+37,TTM,Nov-17-21,01:47PM  ,New Range Rover makes its U.S. debut at LA Auto Show,0.0,530.2999877929688,534.35,501.35,0.0,0,Neutral,negative
+38,TTM,Nov-10-21,04:30AM  ,Six major car makers to phase out petrol and diesel cars by 2040,0.0,510.79998779296875,519.0,501.05,0.0,0,Neutral,positive
+39,TTM,Nov-09-21,07:00PM  ,"Six major carmakers agree to phase out fossil-fuel vehicles by 2040, UK says",0.3612,509.75,515.9,500.05,509.12012664124836,-1,Neutral,negative
+40,TTM,Nov-02-21,12:30AM  ,Tata Motors (TTM) Q2 2022 Earnings Call Transcript,0.0,487.79998779296875,495.05,482.0,0.0,0,Neutral,positive
+41,TTM,Nov-01-21,08:00PM  ,Chip Dip and Carbon Footprint Bills Trap Jaguar,-0.3182,485.70001220703125,509.95,486.45,488.4289767163115,1,Neutral,positive
+42,TTM,Nov-01-21,09:09AM  ,Skoda to make quarter of a million fewer cars this year due to chip shortage,-0.25,485.70001220703125,509.95,486.45,488.4289767163115,1,Neutral,positive
+43,TTM,Nov-01-21,08:39AM  ,Skoda to make quarter of a million fewer cars this year due to chip shortage,-0.25,485.70001220703125,509.95,486.45,488.4289767163115,1,Neutral,positive
+44,TTM,Nov-01-21,08:13AM  ,Chip crisis halves Jaguar Land Rover sales,-0.6249,485.70001220703125,509.95,486.45,488.4289767163115,1,Neutral,positive
+45,TTM,Nov-01-21,06:50AM  ,India's Tata Motors says EV waiting period at six months on chip shortage,-0.25,485.70001220703125,509.95,486.45,488.4289767163115,1,Neutral,positive
+46,TTM,Oct-19-21,12:02PM  ,33 Stocks Moving In Tuesday's Mid-Day Session,0.0,482.1000061035156,497.0,471.0,0.0,0,Neutral,positive
+47,TTM,Oct-13-21,12:30AM  ,"JLR parent Tata Motors surges nearly 20% on TPG fundraise, EV plans",0.0,506.75,532.4,491.95,0.0,0,Neutral,negative
+48,TTM,Oct-13-21,12:27AM  ,Jaguar Land Rover Owner's Stock Soars on $1 Billion EV Deal,0.0,506.75,532.4,491.95,0.0,0,Neutral,negative
+49,TTM,Oct-13-21,12:10AM  ,Tata Motors lifts Indian shares to record highs on EV investment pledge,0.296,506.75,532.4,491.95,513.6219873566512,1,Increase,Success
+50,TTM,Oct-13-21,12:10AM  ,Indian shares hit record highs as Tata Motors soars on EV plans,0.296,506.75,532.4,491.95,513.6219873566512,1,Increase,Success
+51,TTM,Oct-12-21,03:43PM  ,Tata Motors Stock Soars on Big Electric Vehicle Move,0.0,420.79998779296875,519.95,462.85,0.0,0,Neutral,positive
+52,TTM,Oct-12-21,03:33PM  ,Tata Motors To Raise $1B In Passenger Electric Vehicle Business,0.0,420.79998779296875,519.95,462.85,0.0,0,Neutral,positive
+53,TTM,Oct-12-21,12:39PM  ,Shares of Tata Motors Ltd. Rise to a New 52-Week High,0.296,420.79998779296875,519.95,462.85,423.23204128402523,1,Increase,Success
+54,TTM,Oct-12-21,10:00AM  ,UPDATE 3-Tata Motors to invest $2 bln in EVs after fundraise from TPG,0.0,420.79998779296875,519.95,462.85,0.0,0,Neutral,positive
+55,TTM,Oct-12-21,08:30AM  ,"5 Top Stock Gainers for Tuesday: MGM Resorts, Airbnb, Valvoline",0.2023,420.79998779296875,519.95,462.85,423.23204128402523,1,Increase,Success
+56,TTM,Oct-12-21,08:11AM  ,Tata Motors to invest $2 billion in EVs after fundraise from TPG,0.0,420.79998779296875,519.95,462.85,0.0,0,Neutral,positive
+57,TTM,Oct-08-21,06:49AM  ,Tata regains control of troubled Air India with $2.4 billion bid,-0.4588,382.95001220703125,420.75,387.85,384.9390725787233,1,Neutral,positive
+58,TTM,Oct-07-21,01:48PM  ,Why Shares of Tata Motors Drove Higher on Thursday,0.296,376.3999938964844,398.0,380.0,377.17140131193884,1,Increase,Success
+59,TTM,Oct-07-21,09:22AM  ,"5 Stock Gainers for Thursday: Nio, Tata Motors, Levi Strauss",0.0,376.3999938964844,398.0,380.0,0.0,0,Neutral,positive
+60,TTM,Oct-07-21,08:30AM  ,"Thinking about buying stock in Tata Motors, New Fortress Energy, Arbutus Biopharma, US Well Services, or Progenity?",0.4939,376.3999938964844,398.0,380.0,377.17140131193884,1,Increase,Success
+61,TTM,Sep-21-21,08:28AM  ,Tata Motors to raise commercial vehicle prices by 2% to offset continued rise in commodity costs,0.0,301.8500061035156,313.7,303.05,0.0,0,Neutral,positive
+62,TTM,Sep-15-21,07:39AM  ,UPDATE 2-India approves $3.5 bln scheme to boost clean fuel vehicles,0.7964,311.95001220703125,314.95,307.8,312.68888854249695,1,Increase,Success
+63,TTM,Sep-02-21,01:21AM  ,UPDATE 2-India's Mahindra sees Sept car output down by a quarter on chip shortage,-0.25,293.1000061035156,296.45,292.4,293.3049764719019,1,Neutral,positive
+64,TTM,Aug-26-21,08:17AM  ,U.K. car production suffers worst July since 1956,-0.802,284.3999938964844,286.55,281.7,284.5868111657803,1,Neutral,positive
+65,TTM,Aug-26-21,02:44AM  ,UK car manufacturing falls to lowest since Suez crisis in 1956,-0.7717,284.3999938964844,286.55,281.7,284.5868111657803,1,Neutral,positive
+66,TTM,Jul-27-21,04:31AM  ,Tata Motors (TTM) Q1 2022 Earnings Call Transcript,0.0,291.29998779296875,290.85,283.65,0.0,0,Neutral,positive
+67,TTM,Jul-26-21,01:56PM  ,Jaguar Sets Up Mission Control Center Over Chips Spurring Losses,-0.4019,293.1000061035156,297.6,288.7,292.71072176436087,-1,Decrease,Success
+68,TTM,Jul-26-21,06:40AM  ,"JLR parent sees demand recovering, warns of short term impact of chip shortage",-0.4404,293.1000061035156,297.6,288.7,292.71072176436087,-1,Decrease,Success
+69,TTM,Jul-14-21,04:17PM  ,Coventry Airport owner submits plans for huge gigafactory,0.3182,309.45001220703125,312.85,307.55,309.017026040259,-1,Neutral,negative
+70,TTM,Jul-12-21,11:05AM  ,How Formula E racing is a testbed for the future of EVs,0.0,307.45001220703125,312.2,308.2,0.0,0,Neutral,positive
+71,TTM,Jul-09-21,01:06PM  ,"Why NIO, TuSimple, and Other Auto Stocks Fell This Week",0.0,306.3500061035156,311.9,306.25,0.0,0,Neutral,positive
+72,TTM,Jul-06-21,02:23PM  ,Why Tata Motors Stock Is Plunging Today,0.0,316.95001220703125,319.0,306.3,0.0,0,Neutral,negative
+73,TTM,Jul-05-21,08:00PM  ,Jaguar Land Rover downgrades forecast as global chip shortage bites,-0.25,346.04998779296875,358.1,311.45,346.97872197752815,1,Neutral,negative
+74,TTM,Jun-29-21,01:44PM  ,Tata Motors Limited files Annual Report on Form 20-F for Fiscal Year 2021,-0.2263,341.54998779296875,345.2,338.8,342.37144772304265,1,Neutral,positive
+75,TTM,Jun-25-21,07:02AM  ,UK car output hit as semiconductor shortage continues to plague auto sector,-0.25,339.54998779296875,344.9,337.5,340.60366874109025,1,Neutral,positive
+76,TTM,Jun-21-21,08:00PM  ,Jaguar Land Rover to overhaul supply chain to avoid factory closures,-0.296,334.3500061035156,344.2,336.3,336.0942320991286,1,Neutral,positive
+77,TTM,Jun-20-21,09:49AM  ,Jaguar Land Rover backs car payments app set to rip up paper forms,-0.0516,334.3500061035156,344.2,336.3,338.63008958596436,1,Neutral,positive
+78,TTM,Jun-15-21,06:05PM  ,"Only Volkswagen, Volvo doing enough to electrify in Europe - study",0.0,352.6499938964844,355.95,348.0,0.0,0,Neutral,negative
+79,TTM,Jun-15-21,12:14PM  ,Why Nikola Stock Dropped Tuesday -- Though Maybe It Shouldn't Have,0.0,352.6499938964844,355.95,348.0,0.0,0,Neutral,negative
+80,TTM,Jun-14-21,07:50PM  ,JLR to begin testing prototype hydrogen Land Rover this year,0.0,356.0,360.65,351.2,0.0,0,Neutral,negative
+81,TTM,Jun-14-21,07:05PM  ,JLR to begin testing prototype hydrogen Land Rover this year,0.0,356.0,360.65,351.2,0.0,0,Neutral,negative
+82,TTM,Jun-03-21,02:56AM  ,India's Tata Motors raises $425 million in offshore bonds to pare debt,-0.3612,325.45001220703125,336.9,324.5,326.29926978473435,1,Neutral,positive
+83,TTM,May-18-21,05:00PM  ,Tata Motors (TTM) Q4 2021 Earnings Call Transcript,0.0,332.3500061035156,322.95,312.15,0.0,0,Neutral,negative
+84,TTM,May-18-21,01:21PM  ,Jaguar Land Rover Owner Swings to Profit as China Sales Jump,0.4404,332.3500061035156,322.95,312.15,335.0911290584256,1,Increase,Failure
+85,TTM,May-18-21,10:18AM  ,Jaguar Land Rover posts £534m profit thanks to strong sales in China,0.8442,332.3500061035156,322.95,312.15,335.0911290584256,1,Increase,Failure
+86,TTM,May-18-21,07:41AM  ,"UPDATE 3-JLR owner braces for tough ride as chip shortage, pandemic weigh",-0.3612,332.3500061035156,322.95,312.15,335.0911290584256,1,Neutral,negative
+87,TTM,May-17-21,08:00PM  ,Jaguar Land Rover boosted by sales rebound in China and US,0.3612,321.1000061035156,336.55,324.1,320.35108044754435,-1,Neutral,negative
+88,TTM,May-12-21,11:50AM  ,Jaguar Land Rover's fourth quarter is 'good news' -CEO,0.4404,325.8500061035156,331.0,310.2,325.38404312929237,-1,Neutral,negative
+89,TTM,Apr-29-21,08:53AM  ,The chip shortage bringing car factories to a standstill,-0.25,301.8500061035156,301.3,292.85,301.9022286823648,1,Neutral,negative
+90,TTM,Apr-22-21,08:36PM  ,PRESS DIGEST-British Business - April 23,0.0,294.54998779296875,299.95,290.75,0.0,0,Neutral,positive
+91,TTM,Apr-22-21,12:40PM  ,Jaguar Land Rover will shut down UK factories due to global computer chip shortage,-0.25,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+92,TTM,Apr-22-21,11:28AM  ,Land Rover To Temporarily Suspend UK Production Due To Chip Shortage,-0.5106,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+93,TTM,Apr-22-21,09:22AM  ,Jaguar Land Rover to suspend output due to chip shortage,-0.5106,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+94,TTM,Apr-22-21,07:06AM  ,Chip shortage forces Jaguar Land Rover to halt production,-0.25,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+95,TTM,Apr-22-21,06:08AM  ,UPDATE 1-Jaguar Land Rover output at two UK plants hit by chips shortage,-0.25,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+96,TTM,Apr-22-21,06:03AM  ,Jaguar Land Rover output at two UK plants hit by chips shortage,-0.25,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+97,TTM,Apr-22-21,05:34AM  ,Jaguar Land Rover to suspend production at UK plants amid computer chip shortage,-0.5106,294.54998779296875,299.95,290.75,296.5857841720672,1,Neutral,positive
+98,TTM,Apr-21-21,08:00PM  ,Indias Tata forced to refocus after court victory over Mistry,-0.4588,294.54998779296875,299.95,290.75,299.6772545955651,1,Neutral,positive
+99,TTM,Apr-19-21,01:44AM  ,Corrected (Official): Jaguar Land Rover expects China premium car sales to grow this year,0.0,300.95001220703125,308.1,294.2,0.0,0,Neutral,negative

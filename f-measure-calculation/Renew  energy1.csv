@@ -1,0 +1,34 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,RNW,May-10-22,06:30AM  ,ReNew appoints new CFO,0.0,6.900000095367432,7.0,6.43,0.0,0,Neutral,negative
+1,RNW,May-05-22,09:25AM  ,An Intrinsic Calculation For ReNew Energy Global plc (NASDAQ:RNW) Suggests It's 46% Undervalued,0.2732,7.590000152587891,7.67,7.45,7.615555916860331,1,Increase,Success
+2,RNW,Apr-28-22,06:30AM  ,ReNew's total portfolio rises close to 20% to over 12 GW,0.0,7.940000057220459,8.08,7.7,0.0,0,Neutral,negative
+3,RNW,Apr-06-22,08:53AM  ,Mitsui to invest in ReNew Power's Round-The-Clock project,0.0,8.0600004196167,8.3,8.02,0.0,0,Neutral,positive
+4,RNW,Apr-06-22,06:30AM  ,Mitsui to invest in ReNew Power's Round-The-Clock project,0.0,8.0600004196167,8.3,8.02,0.0,0,Neutral,positive
+5,RNW,Apr-03-22,11:10PM  ,"IndianOil, L&T and ReNew to form JV for development of Green Hydrogen Business",0.0,8.329999923706055,8.52,8.18,0.0,0,Neutral,negative
+6,RNW,Apr-03-22,02:25PM  ,Loss-making ReNew Energy Global (NASDAQ:RNW) has seen earnings and shareholder returns follow the same downward trajectory over past -18%,0.2732,8.329999923706055,8.52,8.18,8.312120082200146,-1,Neutral,negative
+7,RNW,Mar-29-22,04:56PM  ,Slowing Rates Of Return At TransAlta Renewables (TSE:RNW) Leave Little Room For Excitement,0.4091,8.319999694824219,8.37,7.98,8.228269585149606,-1,Neutral,negative
+8,RNW,Feb-24-22,06:33PM  ,"ReNew Power Announces Results for the Third Quarter (Q3 FY22) and Nine Months of Fiscal 2022, both ended December 31, 2021",0.0,8.050000190734863,8.08,7.57,0.0,0,Neutral,negative
+9,RNW,Feb-24-22,06:25PM  ,"ReNew Power Announces Results for the Third Quarter (Q3 FY22) and Nine Months of Fiscal 2022, both ended December 31, 2021",0.0,8.050000190734863,8.08,7.57,0.0,0,Neutral,negative
+10,RNW,Feb-24-22,06:24PM  ,"ReNew Power Announces Results for the Third Quarter (Q3 FY22) and Nine Months of Fiscal 2022, both ended December 31, 2021",0.0,8.050000190734863,8.08,7.57,0.0,0,Neutral,negative
+11,RNW,Feb-18-22,04:12PM  ,ReNew Announces Date and Conference Call Details for Q3 FY 22 Earnings Report,0.0,7.659999847412109,7.71,7.43,0.0,0,Neutral,negative
+12,RNW,Feb-18-22,04:12PM  ,ReNew Announces Date and Conference Call Details for Q3 FY 22 Earnings Report,0.0,7.659999847412109,7.71,7.43,0.0,0,Neutral,negative
+13,RNW,Feb-07-22,08:38PM  ,"Kayne Anderson Capital Advisors Lp Buys ReNew Energy Global PLC, Aris Water Solutions Inc, Hess ...",0.4215,6.190000057220459,6.43,6.13,6.207416177595742,1,Increase,Success
+14,RNW,Feb-02-22,12:40PM  ,Returns On Capital Are Showing Encouraging Signs At ReNew Energy Global (NASDAQ:RNW),0.6705,6.260000228881836,6.44,6.03,6.230798470182996,-1,Neutral,positive
+15,RNW,Feb-02-22,08:58AM  ,ReNew Announces $250 million share buyback and Preliminary Results for Q3 FY'22,0.296,6.260000228881836,6.44,6.03,6.230798470182996,-1,Neutral,positive
+16,RNW,Jan-20-22,06:34AM  ,Fluence and ReNew to set up local joint venture to boost energy storage sector in India,0.5859,6.0,6.0,5.61,6.027633843619105,1,Increase,Failure
+17,RNW,Jan-07-22,11:30AM  ,ReNew raises $400 million by issuing Green Bonds,0.0,6.989999771118164,6.98,6.64,0.0,0,Neutral,negative
+18,RNW,Jan-04-22,05:18PM  ,India Clean Energy Holdings -- Moody's assigns first-time Ba3 rating to India Clean Energy Holdings USD bond,0.8225,7.460000038146973,7.5,7.23,7.497804634063037,1,Increase,Success
+19,RNW,Dec-26-21,03:38AM  ,"India Fund Inc Buys Vijaya Diagnostic Centre, Zomato, IndiaMART InterMESH, Sells Bandhan Bank, ...",0.0,7.590000152587891,7.63,7.23,0.0,0,Neutral,positive
+20,RNW,Dec-21-21,03:54AM  ,ReNew reaches 7.4 GW of operating renewable energy capacity in surge of on-ground additions,0.3182,8.239999771118164,8.33,8.05,8.148113752998338,-1,Neutral,negative
+21,RNW,Dec-14-21,11:35AM  ,"Investing in These 3 Stocks Could Double Your Money, Says Goldman Sachs",0.0,8.010000228881836,8.13,7.88,0.0,0,Neutral,positive
+22,RNW,Dec-07-21,02:26PM  ,ReNew receives carbon neutral status,0.0,8.199999809265137,8.32,8.04,0.0,0,Neutral,negative
+23,RNW,Dec-02-21,07:00AM  ,L&T and ReNew announce partnership to focus on the Green Hydrogen business in India,0.0,8.050000190734863,8.33,7.66,0.0,0,Neutral,positive
+24,RNW,Nov-30-21,07:41AM  ,ReNew rated among top 10 renewable power companies globally by Sustainalytics on ESG,0.2023,7.690000057220459,8.0,7.56,7.70135773773697,1,Increase,Success
+25,RNW,Nov-23-21,10:10AM  ,Could The ReNew Energy Global plc (NASDAQ:RNW) Ownership Structure Tell Us Something Useful?,0.6124,8.789999961853027,8.95,8.32,8.883345660104595,1,Increase,Success
+26,RNW,Nov-17-21,04:30PM  ,"ReNew Power Announces Results for the Second Quarter (Q2 FY22) and First Half of Fiscal 2022, both ended September 30, 2021 (H1 FY22)",0.0,8.960000038146973,9.44,8.95,0.0,0,Neutral,negative
+27,RNW,Nov-15-21,07:00AM  ,ReNew Announces Date and Conference Call Details for First Half and Second Quarter Fiscal Year 2022 Earnings Report,0.0,9.649999618530273,9.8,9.43,0.0,0,Neutral,negative
+28,RNW,Oct-29-21,07:30AM  ,ReNew ranked 10th in Fortune's Change the World list 2021,0.0,9.949999809265137,10.13,9.87,0.0,0,Neutral,positive
+29,RNW,Oct-12-21,06:30AM  ,"ReNew reiterates weather-adjusted FY'22 guidance, outlines significant value accretive growth at Capital Markets Day",0.7003,9.130000114440918,9.21,8.86,9.277737854173681,1,Increase,Success
+30,RNW,Sep-27-21,07:27AM  ,Renew Energy Global to host Capital Markets Day on 12th October,0.2732,11.180000305175781,11.6,10.72,11.238983860421303,1,Increase,Success
+31,RNW,Sep-15-21,07:02AM  ,Renew Power helped India avoid 10 million metric tons carbon emissions says its 'Sustainability Report',-0.296,9.569999694824219,10.15,9.59,9.572056090565564,1,Neutral,positive
+32,RNW,Sep-09-21,08:24AM  ,ReNew Power announces the commissioning of 250 MW solar project in Rajasthan,0.0,9.649999618530273,9.9,9.6,0.0,0,Neutral,positive

@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,SIFY,May-26-22,09:27AM  ,Investors Will Want Sify Technologies' (NASDAQ:SIFY) Growth In ROCE To Persist,0.4404,2.119999885559082,2.23,2.15,2.0978339357797733,-1,Neutral,positive
+1,SIFY,May-12-22,07:00AM  ,Cyxtera Expands to India Through Strategic Partnership with Sify Technologies,0.1027,1.9500000476837158,2.19,1.93,1.9769202178194785,1,Increase,Success
+2,SIFY,May-10-22,07:00AM  ,Sidoti May Virtual Micro Cap Investor Conference,0.0,2.109999895095825,2.18,1.87,0.0,0,Neutral,negative
+3,SIFY,May-08-22,08:20AM  ,Sify Technologies' (NASDAQ:SIFY) investors will be pleased with their solid 192% return over the last five years,0.5423,2.109999895095825,2.2,2.02,2.4498893300750906,1,Increase,Success
+4,SIFY,Apr-18-22,11:12AM  ,Here's How Sify Technologies Fared In Q4,0.0,2.859999895095825,2.95,2.86,0.0,0,Neutral,negative
+5,SIFY,Apr-18-22,08:54AM  ,Sify reports Consolidated financial results for FY 2021-22,0.0,2.859999895095825,2.95,2.86,0.0,0,Neutral,negative
+6,SIFY,Apr-11-22,08:57AM  ,"Sify Technologies to announce Financial Results for FY 2021-22 on April 18, 2022",0.0,2.890000104904175,3.03,2.89,0.0,0,Neutral,positive
+7,SIFY,Mar-23-22,11:30PM  ,A Dotcom Era Pioneer in India Readies Second Startup for an IPO,0.0,3.059999942779541,3.1,2.98,0.0,0,Neutral,negative
+8,SIFY,Mar-18-22,08:02AM  ,Here's Why I Think Sify Technologies (NASDAQ:SIFY) Is An Interesting Stock,0.4019,3.009999990463257,3.05,2.95,3.002688505355525,-1,Neutral,positive
+9,SIFY,Feb-23-22,02:00AM  ,Sify Data Centers to Invest in over 200 MW of Green Power,0.0,2.819999933242798,2.93,2.75,0.0,0,Neutral,positive
+10,SIFY,Feb-10-22,10:37AM  ,Should You Think About Buying Sify Technologies Limited (NASDAQ:SIFY) Now?,-0.2263,3.130000114440918,3.14,2.96,3.1436762088287846,1,Neutral,negative
+11,SIFY,Jan-31-22,08:00AM  ,Sify Technologies Recognized as a NICHE PLAYER In The 2021 Gartner® Magic Quadrant For Managed Network Services,0.0,3.0299999713897705,3.3,2.98,0.0,0,Neutral,positive
+12,SIFY,Jan-24-22,07:00AM  ,Sify reports Consolidated financial results for Third quarter of 2021-22,0.0,3.0,3.09,2.9,0.0,0,Neutral,negative
+13,SIFY,Jan-18-22,06:35AM  ,"Sify Technologies to announce Financial Results for Third Quarter FY 2021-22 on January 24, 2022",0.0,3.25,3.3,3.19,0.0,0,Neutral,negative
+14,SIFY,Jan-05-22,08:33AM  ,Is Sify Technologies Limited's (NASDAQ:SIFY) Stock's Recent Performance Being Led By Its Attractive Financial Prospects?,0.6249,3.069999933242798,3.13,3.0,3.118892358094684,1,Increase,Success
+15,SIFY,Dec-28-21,11:40AM  ,SIFY vs. SHOP: Which Stock Should Value Investors Buy Now?,0.34,3.009999990463257,3.11,3.0,3.0238483106217378,1,Increase,Success
+16,SIFY,Dec-28-21,09:40AM  ,Are These Computer and Technology Stocks Undervalued Right Now?,0.0,3.009999990463257,3.11,3.0,0.0,0,Neutral,positive
+17,SIFY,Dec-09-21,11:40AM  ,SIFY vs. SHOP: Which Stock Is the Better Value Option?,0.6486,3.2100000381469727,3.25,3.1,3.2458714109637796,1,Increase,Success
+18,SIFY,Dec-06-21,11:14AM  ,We Like These Underlying Return On Capital Trends At Sify Technologies (NASDAQ:SIFY),0.3612,3.140000104904175,3.32,3.2,3.180043430992913,1,Increase,Success
+19,SIFY,Dec-03-21,09:01AM  ,9 Best Indian Stocks to Buy Right Now,0.6369,3.200000047683716,3.31,3.01,3.254180500235474,1,Increase,Success
+20,SIFY,Nov-23-21,11:40AM  ,SIFY or SHOP: Which Is the Better Value Stock Right Now?,0.6486,3.559999942779541,3.62,3.48,3.5924337083119076,1,Increase,Success
+21,SIFY,Nov-18-21,08:45AM  ,Time to Focus on Sify Technologies (SIFY) for Strong Earnings Growth Potential,0.7096,3.8299999237060547,4.0,3.78,3.8340929191198643,1,Increase,Success
+22,SIFY,Nov-09-21,10:59AM  ,UBER Collaborates With Serve Robotics for On-Demand Delivery,0.0,3.619999885559082,3.65,3.47,0.0,0,Neutral,positive
+23,SIFY,Nov-05-21,02:19PM  ,Sify Technologies (NASDAQ:SIFY) shareholders have earned a 29% CAGR over the last five years,0.0,3.5399999618530273,3.6,3.5,0.0,0,Neutral,positive
+24,SIFY,Nov-04-21,11:40AM  ,SIFY or SHOP: Which Is the Better Value Stock Right Now?,0.6486,3.490000009536743,3.61,3.43,3.491424138006111,1,Increase,Success
+25,SIFY,Nov-01-21,09:51AM  ,Kotak Special Situations Fund to invest INR 1000 crores in  Sifys Data Center business,0.4019,3.549999952316284,3.55,3.41,3.555295311378534,1,Increase,Success
+26,SIFY,Oct-29-21,08:33AM  ,"Sify Clocks 18% Revenue Growth In Q2, Profit Expands 39%",0.7096,3.559999942779541,3.8,3.52,3.5534445217789115,-1,Neutral,negative
+27,SIFY,Oct-29-21,07:19AM  ,Sify reports Consolidated financial results for Second quarter of 2021-22,0.0,3.559999942779541,3.8,3.52,0.0,0,Neutral,negative
+28,SIFY,Oct-22-21,08:38AM  ,"Sify Technologies to announce Financial Results for  Second Quarter FY 2021-22 on October 29, 2021",0.0,3.3499999046325684,3.45,3.35,0.0,0,Neutral,positive
+29,SIFY,Oct-06-21,12:22PM  ,Here's Why We Think Sify Technologies (NASDAQ:SIFY) Is Well Worth Watching,0.4588,3.25,3.36,3.27,3.28187001283996,1,Increase,Success
+30,SIFY,Sep-27-21,11:40AM  ,SIFY vs. TTD: Which Stock Should Value Investors Buy Now?,0.34,3.5,3.52,3.4,3.509666884766834,1,Increase,Success
+31,SIFY,Sep-21-21,07:35AM  ,Sidoti: Fall Virtual Small Cap Investor Conference,0.0,3.2200000286102295,3.35,3.22,0.0,0,Neutral,positive
+32,SIFY,Sep-20-21,08:34AM  ,Indias First Commercial Data Center completes  21 years in Operation,0.0,3.140000104904175,3.24,3.16,0.0,0,Neutral,positive
+33,SIFY,Sep-10-21,11:40AM  ,SIFY vs. TTD: Which Stock Is the Better Value Option?,0.6486,3.8299999237060547,3.79,3.35,3.840189354037406,1,Increase,Failure
+34,SIFY,Sep-01-21,08:29AM  ,Sify Technologies announces channel partnership with Colt Technology Services for Europe,0.0,3.690000057220459,3.82,3.66,0.0,0,Neutral,positive
+35,SIFY,Aug-31-21,10:45AM  ,What Does Sify Technologies Limited's (NASDAQ:SIFY) Share Price Indicate?,0.296,3.6500000953674316,3.75,3.6,3.6579408536211773,1,Increase,Success
+36,SIFY,Aug-19-21,11:40AM  ,SIFY vs. ZS: Which Stock Should Value Investors Buy Now?,0.34,3.190000057220459,3.32,3.2,3.254645803207608,1,Increase,Success
+37,SIFY,Aug-03-21,11:40AM  ,SIFY vs. TTD: Which Stock Is the Better Value Option?,0.6486,3.569999933242798,3.65,3.5,3.5247748522700575,-1,Neutral,positive
+38,SIFY,Jul-30-21,07:21AM  ,"Sify Q1 Profit Jumps 91%, Estimates Sustained Demand From Data Policy And Remote Access",0.34,3.3299999237060547,3.5,3.28,3.3409383474340024,1,Increase,Success
+39,SIFY,Jul-30-21,05:37AM  ,Sify reports Revenues of INR 6451 Million for First Quarter of FY 2021-22,0.0,3.3299999237060547,3.5,3.28,0.0,0,Neutral,positive
+40,SIFY,Jul-26-21,10:34AM  ,Sify Technologies Limited's (NASDAQ:SIFY) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong?,0.0772,3.190000057220459,3.16,3.03,3.207915981582222,1,Increase,Failure
+41,SIFY,Jul-23-21,08:27AM  ,"Sify Technologies to announce Financial Results for  First Quarter FY 2021-22 on Friday, July 30, 2021",0.0,3.2300000190734863,3.29,3.17,0.0,0,Neutral,negative
+42,SIFY,Jul-14-21,09:11AM  ,15 Best Penny Stocks to Buy Now,0.6369,3.049999952316284,3.12,2.85,3.0868413120288416,1,Increase,Success
+43,SIFY,Jun-30-21,09:19AM  ,20th year commemorative Coffee Table book wins Gold at 2021 Asia Pacific Stevie awards,0.7717,3.619999885559082,3.65,3.56,3.615258408907312,-1,Neutral,negative
+44,SIFY,Jun-22-21,04:45PM  ,Sidoti Summer Virtual Small-Cap Conference,0.0,3.5999999046325684,3.75,3.61,0.0,0,Neutral,positive
+45,SIFY,Jun-21-21,06:50PM  ,Is Sify Technologies Limited (SIFY) A Good Stock To Buy?,0.25,3.5299999713897705,3.6,3.42,3.5737713613198476,1,Increase,Success
+46,SIFY,Jun-09-21,09:34AM  ,"Sify Technologies recognized in 2020 Gartner Market Guide for Public Cloud Managed and Professional Services Providers, Asia/Pacific",0.0,3.4200000762939453,3.49,3.38,0.0,0,Neutral,positive
+47,SIFY,Jun-09-21,05:24AM  ,There's Been No Shortage Of Growth Recently For Sify Technologies' (NASDAQ:SIFY) Returns On Capital,-0.1531,3.4200000762939453,3.49,3.38,3.4848161110199376,1,Neutral,positive
+48,SIFY,Jun-01-21,01:32PM  ,Heres Why Long Cast Advisers Reduced its Stake in Sify Technologies (SIFY),0.0,3.5,3.5,3.3,0.0,0,Neutral,negative
+49,SIFY,May-07-21,04:21PM  ,Why Did Sify Technologies Stock Gain After FY21 Earnings?,0.5267,3.009999990463257,3.12,2.84,2.9770659481025,-1,Neutral,negative
+50,SIFY,May-07-21,08:31AM  ,"Sify reports Revenue of INR 24,320 Million for Financial Year 2020-21",0.0,3.009999990463257,3.12,2.84,0.0,0,Neutral,negative
+51,SIFY,May-07-21,06:45AM  ,Sify Technologies Ltd. to Host Earnings Call,0.0,3.009999990463257,3.12,2.84,0.0,0,Neutral,negative
+52,SIFY,May-04-21,06:50AM  ,Can You Imagine How Jubilant Sify Technologies' (NASDAQ:SIFY) Shareholders Feel About Its 178% Share Price Gain?,0.8625,2.890000104904175,2.94,2.8,2.8865220886479594,-1,Neutral,positive
+53,SIFY,Apr-30-21,11:56AM  ,"Sify Technologies to announce Financial Results for  FY 2020-21 on May 07, 2021",0.0,2.799999952316284,2.91,2.72,0.0,0,Neutral,positive
+54,SIFY,Apr-29-21,06:45AM  ,3 Global Value Stocks to Buy Now,0.34,2.9200000762939453,2.99,2.8,2.9428601258006197,1,Increase,Success
+55,SIFY,Mar-22-21,12:51PM  ,AMS-IX And Sify Expand Indian Footprint With Four New Internet Exchanges,0.3182,3.930000066757202,4.0,3.5,4.007266133813463,1,Increase,Success
+56,SIFY,Mar-22-21,10:02AM  ,AMS-IX and Sify to open four new Internet Exchanges in India,0.0,3.930000066757202,4.0,3.5,0.0,0,Neutral,negative
+57,SIFY,Mar-18-21,06:45AM  ,Should You Investigate Sify Technologies Limited (NASDAQ:SIFY) At US$4.19?,-0.2263,3.880000114440918,4.1,3.63,3.9345735952430365,1,Neutral,negative
+58,SIFY,Mar-05-21,03:50PM  ,Why Sify Technologies Stock Spiked Today,0.0,3.940000057220459,4.15,3.12,0.0,0,Neutral,negative
+59,SIFY,Mar-05-21,05:33AM  ,Blackstone Explores Minority Stake Acquisition In India's Sify: Bloomberg,0.0,3.940000057220459,4.15,3.12,0.0,0,Neutral,negative
+60,SIFY,Mar-05-21,04:50AM  ,Blackstone in Talks to Buy Minority Stake in Indias Sify,0.0,3.940000057220459,4.15,3.12,0.0,0,Neutral,negative
+61,SIFY,Mar-01-21,09:30AM  ,Sify Technologies adjudged the best in Talent Management and Learning and Development,0.7906,3.4600000381469727,3.58,3.15,3.4854404575937585,1,Increase,Success
+62,SIFY,Feb-22-21,08:32AM  ,World Leadership Congress recognises Kamal Nath as CEO of the Year,0.0,3.369999885559082,3.58,2.85,0.0,0,Neutral,negative
+63,SIFY,Feb-01-21,01:39AM  ,Sify Technologies Limited (NASDAQ:SIFY) Released Earnings Last Week And Analysts Lifted Their Price Target To US$5.00,-0.2263,2.069999933242798,2.19,2.0,2.0941647333551145,1,Neutral,positive
+64,SIFY,Jan-28-21,06:45AM  ,Sify Technologies Ltd. to Host Earnings Call,0.0,2.319999933242798,2.32,2.09,0.0,0,Neutral,negative
+65,SIFY,Jan-28-21,06:20AM  ,Sify reports Revenues of INR 6301 Million for Third Quarter of FY 2020-21,0.0,2.319999933242798,2.32,2.09,0.0,0,Neutral,negative
+66,SIFY,Jan-27-21,11:40AM  ,SIFY vs. TTD: Which Stock Is the Better Value Option?,0.6486,2.4200000762939453,2.53,2.19,2.4507598617017314,1,Increase,Success
+67,SIFY,Jan-21-21,08:36AM  ,"Sify Technologies to announce Financial Results for Third Quarter FY 2020-21 on January 28, 2021",0.0,2.3499999046325684,2.42,2.31,0.0,0,Neutral,positive
+68,SIFY,Dec-31-20,03:15AM  ,Why Sify Technologies' (NASDAQ:SIFY) CEO Pay Matters,-0.0772,1.2699999809265137,1.38,1.27,1.2839580699595061,1,Neutral,positive
+69,SIFY,Dec-14-20,08:45AM  ,Sify Technologies Breaks Into the top 500 of Fortune India Ranking,0.2023,1.1200000047683716,1.13,1.11,1.1242059982713597,1,Increase,Success
+70,SIFY,Dec-01-20,04:06AM  ,Sify Technologies Limited's (NASDAQ:SIFY) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum?,0.0,1.1200000047683716,1.15,1.1,0.0,0,Neutral,negative
+71,SIFY,Oct-27-20,11:52AM  ,Should You Be Impressed By Sify Technologies' (NASDAQ:SIFY) Returns on Capital?,0.4767,1.090000033378601,1.08,1.06,1.0859431866331786,-1,Neutral,negative
+72,SIFY,Oct-23-20,12:00PM  ,Sify Technology (SIFY) Q2 2021 Earnings Call Transcript,0.0,1.149999976158142,1.17,1.11,0.0,0,Neutral,negative
+73,SIFY,Oct-23-20,08:07AM  ,Sify reports Revenues of INR 5899 Million for Second Quarter of FY 2020-21,0.0,1.149999976158142,1.17,1.11,0.0,0,Neutral,negative
+74,SIFY,Oct-16-20,08:57AM  ,"Sify Technologies to announce Financial Results for  Second Quarter FY 2020-21 on October 23, 2020",0.0,1.190000057220459,1.27,1.18,0.0,0,Neutral,negative
+75,SIFY,Sep-23-20,09:44AM  ,Sify Technologies to present at Sidoti & Companys Fall 2020 Investor Conference,0.0,1.0299999713897705,1.05,1.0,0.0,0,Neutral,negative
+76,SIFY,Sep-17-20,11:14AM  ,"Sify Technologies (SIFY) Has Fallen 19% in Last One Year, Underperforms Market",-0.3612,1.059999942779541,1.1,1.04,1.0592782343094957,-1,Decrease,Success
+77,SIFY,Sep-15-20,10:28AM  ,What Type Of Returns Would Sify Technologies'(NASDAQ:SIFY) Shareholders Have Earned If They Purchased Their SharesThree Years Ago?,0.0,1.0700000524520874,1.09,1.03,0.0,0,Neutral,negative
+78,SIFY,Sep-09-20,09:04AM  ,Sify Technologies announces expanded Cloud offerings with  Oracle FastConnect,0.0,1.0399999618530273,1.1,1.04,0.0,0,Neutral,positive
+79,SIFY,Sep-03-20,08:45AM  ,Sify Partners with Commvault to Provide Unified Data Protection across Multi-Cloud Environments,0.3818,1.090000033378601,1.12,0.98,1.0925837177999422,1,Increase,Success
+80,SIFY,Aug-18-20,10:23AM  ,Sify regains compliance with NASDAQ Minimum Bid Price requirement,0.0,1.3300000429153442,1.35,1.27,0.0,0,Neutral,negative
+81,SIFY,Aug-13-20,08:59AM  ,Sify Technologies (SIFY) Jumps: Stock Rises 8.7%,0.0,1.3600000143051147,1.43,1.26,0.0,0,Neutral,negative
+82,SIFY,Jul-30-20,01:06PM  ,Sify Technologies Limited (NASDAQ:SIFY) Analysts Are Pretty Bullish On The Stock After Recent Results,0.3182,1.0099999904632568,1.16,1.02,0.9698703449830881,-1,Neutral,positive
+83,SIFY,Jul-28-20,10:30AM  ,Sify Technology (SIFY) Q1 2021 Earnings Call Transcript,0.0,1.0499999523162842,1.05,0.92,0.0,0,Neutral,positive
+84,SIFY,Jul-28-20,07:32AM  ,Sify reports Revenues of INR 5259 Million for First Quarter of FY 2020-21,0.0,1.0499999523162842,1.05,0.92,0.0,0,Neutral,positive
+85,SIFY,Jul-23-20,09:51AM  ,Investor Optimism Abounds Sify Technologies Limited (NASDAQ:SIFY) But Growth Is Lacking,0.6369,1.1799999475479126,1.23,1.11,1.224074336507189,1,Increase,Success
+86,SIFY,Jul-21-20,11:17AM  ,"Sify Technologies to announce Financial Results for  First Quarter FY 2020-21 on July 28, 2020",0.0,1.0800000429153442,1.35,1.07,0.0,0,Neutral,positive
+87,SIFY,Jun-29-20,11:03AM  ,Sify Technologies enhances iTest platform with Remote Proctoring Solution from TALVIEW,0.3182,0.7900000214576721,0.83,0.76,0.7852654047243235,-1,Neutral,positive
+88,SIFY,May-28-20,03:38AM  ,Edited Transcript of SIFY earnings conference call or presentation 5-May-20 12:30pm GMT,0.0,0.9300000071525574,0.93,0.88,0.0,0,Neutral,negative
+89,SIFY,May-27-20,12:16PM  ,Is It Too Late To Consider Buying Sify Technologies Limited (NASDAQ:SIFY)?,-0.2263,0.9200000166893005,0.95,0.9,0.925097918133466,1,Neutral,negative
+90,SIFY,May-18-20,09:53AM  ,The evolving Indian ICT landscape post Covid19,0.0,0.949999988079071,0.93,0.85,0.0,0,Neutral,negative
+91,SIFY,May-05-20,02:31PM  ,Sify Technology (SIFY) Q4 2020 Earnings Call Transcript,0.0,0.9300000071525574,0.98,0.82,0.0,0,Neutral,positive
+92,SIFY,May-05-20,07:46AM  ,Sify reports Revenues of INR 22952 Million for Financial Year 2019-20,0.0,0.9300000071525574,0.98,0.82,0.0,0,Neutral,positive
+93,SIFY,Apr-28-20,09:58AM  ,"Sify Technologies to announce Financial Results for FY 2019-20 on May 05, 2020",0.0,1.0499999523162842,1.2,1.1,0.0,0,Neutral,positive
+94,SIFY,Apr-24-20,05:06PM  ,Sify receives NASDAQ Staff Deficiency letter,0.0,0.9900000095367432,1.1,1.0,0.0,0,Neutral,positive
+95,SIFY,Apr-21-20,01:03PM  ,Are Sify Technologies Limited's (NASDAQ:SIFY) Fundamentals Good Enough to Warrant Buying Given The Stock's Recent Weakness?,0.0258,0.8100000023841858,0.87,0.81,0.8076953041890688,-1,Neutral,positive
+96,SIFY,Mar-16-20,09:42AM  ,What Can We Make Of Sify Technologies Limiteds (NASDAQ:SIFY) High Return On Capital?,0.0,0.7599999904632568,0.8,0.56,0.0,0,Neutral,negative
+97,SIFY,Jan-27-20,09:52AM  ,Edited Transcript of SIFY earnings conference call or presentation 24-Jan-20 1:30pm GMT,0.0,1.2100000381469727,1.24,1.22,0.0,0,Neutral,positive
+98,SIFY,Jan-24-20,05:29AM  ,Sify reports Revenues of INR 5891 Million for Third Quarter of FY 2019-20,0.0,1.2699999809265137,1.27,1.2,0.0,0,Neutral,negative
+99,SIFY,Jan-17-20,08:23AM  ,"Sify Technologies to announce Financial Results for Third Quarter FY 2019-20 on January 24, 2020",0.0,1.2899999618530273,1.29,1.24,0.0,0,Neutral,negative

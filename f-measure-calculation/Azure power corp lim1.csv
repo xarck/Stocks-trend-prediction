@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,AZRE,May-26-22,05:25PM  ,"Maxeon Solar Technologies, Ltd. (MAXN) Reports Q1 Loss, Tops Revenue Estimates",0.25,15.140000343322754,15.74,15.2,15.084995689478028,-1,Neutral,positive
+1,AZRE,May-24-22,07:15AM  ,Canadian Solar (CSIQ) Q1 Earnings Top Estimates,0.2023,13.890000343322754,15.23,13.76,13.771428287469943,-1,Neutral,positive
+2,AZRE,May-13-22,01:33PM  ,"Loss-making Azure Power Global (NYSE:AZRE) sheds a further 184m, taking total shareholder losses to 36% over 1 year",-0.4019,12.399999618530273,12.69,12.11,12.644306171626774,1,Neutral,positive
+3,AZRE,May-11-22,07:30AM  ,Azure Power announces appointment of Delphine Voeltzel as Nominee Director from OMERS Infrastructure,0.0,11.649999618530273,12.23,11.11,0.0,0,Neutral,positive
+4,AZRE,May-06-22,08:12AM  ,Azure Power Announces Appointment of New Chief Executive Officer,0.0,14.229999542236328,13.89,12.67,0.0,0,Neutral,negative
+5,AZRE,May-02-22,07:30AM  ,Azure Power fully commissions its 90 MW solar power project in Assam,0.0,14.420000076293945,15.1,14.38,0.0,0,Neutral,negative
+6,AZRE,Apr-26-22,07:58AM  ,Azure Power Announces Resignation of Ranjit Gupta as Chief Executive Officer and Murali Subramanian as Chief Operating Officer,-0.296,12.930000305175781,13.44,12.85,12.8534935558291,-1,Decrease,Success
+7,AZRE,Mar-16-22,08:32AM  ,Azure Power (AZRE) Commissions 300 MW Solar Project in India,0.0,19.920000076293945,21.5,19.54,0.0,0,Neutral,negative
+8,AZRE,Mar-14-22,06:30AM  ,"Azure Power fully commissions its 300 MWs SECI project, Rajasthan 8, in Bhadla, Rajasthan",0.0,18.190000534057617,19.87,17.89,0.0,0,Neutral,positive
+9,AZRE,Feb-28-22,01:30PM  ,Azure Power Global Limited (AZRE) Q3 2022 Earnings Call Transcript,-0.2263,16.549999237060547,18.7,16.31,16.288373920891782,-1,Decrease,Success
+10,AZRE,Feb-28-22,06:30AM  ,Azure Power announces change in Board of Directors,0.0,16.549999237060547,18.7,16.31,0.0,0,Neutral,positive
+11,AZRE,Feb-25-22,05:30PM  ,Azure Power Announces Results for Third Quarter Fiscal 2022,0.0,15.649999618530273,18.78,16.1,0.0,0,Neutral,positive
+12,AZRE,Feb-23-22,05:30PM  ,"Azure Power to Announce Results for Third Quarter Fiscal 2022 Ended December 31, 2021, After the Market Closes on February 25, 2022",0.0,13.789999961853027,15.2,13.04,0.0,0,Neutral,positive
+13,AZRE,Feb-22-22,06:30AM  ,Azure Power refinances its 600 MWs ISTS connected solar project at the lowest rate of interest in its portfolio to date,0.1027,14.0,14.35,13.72,13.89588840436339,-1,Neutral,positive
+14,AZRE,Feb-15-22,05:25PM  ,SolarEdge Technologies (SEDG) Lags Q4 Earnings Estimates,-0.3612,16.639999389648438,17.26,16.5,16.379682485099487,-1,Decrease,Success
+15,AZRE,Feb-14-22,09:49AM  ,SunPower (SPWR) Set to Post Q4 Earnings: What's in Store?,0.0,15.520000457763672,16.69,15.49,0.0,0,Neutral,positive
+16,AZRE,Feb-03-22,06:30AM  ,"Azure Power releases its third annual sustainability report for FY 2020-21, commits to water neutrality by 2023",0.0258,13.449999809265137,13.86,13.04,13.49634847055887,1,Increase,Success
+17,AZRE,Feb-02-22,03:01PM  ,Will Azure Power (AZRE) Report Negative Q3 Earnings? What You Should Know,-0.5719,13.819999694824219,14.21,13.27,13.562353312735741,-1,Decrease,Success
+18,AZRE,Jan-24-22,05:00PM  ,Azure Power's rights issue closes for subscription,0.0,14.550000190734863,14.72,13.79,0.0,0,Neutral,negative
+19,AZRE,Jan-07-22,07:30AM  ,Azure Power's Rights Issue open for subscription,0.0,16.510000228881836,16.33,14.88,0.0,0,Neutral,negative
+20,AZRE,Jan-04-22,10:00AM  ,Wall Street Analysts See a 103% Upside in Azure Power (AZRE): Can the Stock Really Move This High?,0.0,17.75,17.1,16.06,0.0,0,Neutral,negative
+21,AZRE,Jan-03-22,03:30AM  ,"Azure Power fully commissions its 600 MWs SECI project, the largest owned and operated single site solar project in India",0.0,18.1200008392334,18.31,17.02,0.0,0,Neutral,negative
+22,AZRE,Dec-27-21,09:03AM  ,Azure Power: Operational and financial Update,0.0,16.729999542236328,17.98,16.53,0.0,0,Neutral,positive
+23,AZRE,Dec-27-21,08:05AM  ,Azure Power: NOTICE OF RECORD DATE,0.0,16.729999542236328,17.98,16.53,0.0,0,Neutral,positive
+24,AZRE,Dec-27-21,08:01AM  ,Azure Power Announces Rights Offering for Equity Shares,0.296,16.729999542236328,17.98,16.53,16.72367004362527,-1,Neutral,positive
+25,AZRE,Dec-26-21,03:38AM  ,"India Fund Inc Buys Vijaya Diagnostic Centre, Zomato, IndiaMART InterMESH, Sells Bandhan Bank, ...",0.0,16.729999542236328,17.98,16.53,0.0,0,Neutral,positive
+26,AZRE,Dec-24-21,10:13AM  ,Top Solar Stocks for Q1 2022,0.2023,16.729999542236328,17.98,16.53,18.309611185769747,1,Increase,Success
+27,AZRE,Dec-22-21,07:30AM  ,Azure Power Global Limited (AZRE) Q2 2022 Earnings Call Transcript,-0.2263,19.149999618530273,19.27,18.5,19.23251136311335,1,Neutral,negative
+28,AZRE,Dec-22-21,06:00AM  ,Azure Power Announces Results of the 2021 Annual General Meeting of Shareholders,0.0,19.149999618530273,19.27,18.5,0.0,0,Neutral,negative
+29,AZRE,Dec-20-21,06:00AM  ,The 7 Best Green Energy Stocks to Grow Your Portfolio in 2022,0.743,18.049999237060547,19.4,18.25,18.20282712915927,1,Increase,Success
+30,AZRE,Dec-17-21,06:00AM  ,"Azure Power signs 2,333 MW PPA with SECI under 4 GW projects Receives Letter of Award for Second Hybrid Project for 200 MW",0.5423,18.239999771118164,18.51,17.54,18.1019417493708,-1,Neutral,positive
+31,AZRE,Dec-13-21,10:46AM  ,"Azure Power Global (AZRE) Q2 Earnings Beat, Revenues Up Y/Y",0.0,19.100000381469727,19.14,18.52,0.0,0,Neutral,negative
+32,AZRE,Dec-10-21,04:45PM  ,"Azure Power Announced Results for Fiscal Second Quarter 2022 Ended September 30, 2021 After the Market Close on",0.0,18.190000534057617,19.7,18.09,0.0,0,Neutral,positive
+33,AZRE,Dec-03-21,09:01AM  ,9 Best Indian Stocks to Buy Right Now,0.6369,18.309999465942383,18.51,17.28,18.04785546060262,-1,Neutral,positive
+34,AZRE,Dec-01-21,01:26PM  ,7 Green Energy Stocks to Buy in December,0.2732,20.020000457763672,20.44,19.41,19.76089618668002,-1,Neutral,negative
+35,AZRE,Nov-17-21,05:00PM  ,Azure Power Signs 600 MW PPA With SECI Under 4 GW Projects,0.0,22.579999923706055,22.86,21.77,0.0,0,Neutral,negative
+36,AZRE,Nov-12-21,06:00AM  ,"Azure Power Global Limited to Hold 2021 Annual General Meeting on December 21, 2021",-0.2263,24.479999542236328,24.44,23.5,24.649803829141398,1,Neutral,negative
+37,AZRE,Nov-11-21,06:30AM  ,Azure Power Wins its First 150 MW ISTS Hybrid Power Project with SECI,0.5719,22.979999542236328,25.0,23.14,22.97380172745843,-1,Neutral,positive
+38,AZRE,Nov-09-21,04:47AM  ,Azure Power Global (NYSE:AZRE) Hasn't Managed To Accelerate Its Returns,0.0,23.209999084472656,24.08,22.09,0.0,0,Neutral,positive
+39,AZRE,Nov-02-21,03:02PM  ,Analysts Estimate Azure Power (AZRE) to Report a Decline in Earnings: What to Look Out for,0.0,23.1200008392334,24.03,22.96,0.0,0,Neutral,positive
+40,AZRE,Nov-02-21,06:30AM  ,"OMERS Infrastructure Signs Agreement with Ares Management to Acquire 100% of Navisun LLC, Signals Entry into Distributed Generation Space",0.4939,23.1200008392334,24.03,22.96,23.130264799090142,1,Increase,Success
+41,AZRE,Oct-22-21,05:00PM  ,Azure Power Wins its First 120 MW ISTS Wind Project with SECI,0.5719,22.079999923706055,24.21,22.13,22.02734886944772,-1,Neutral,positive
+42,AZRE,Sep-30-21,05:00PM  ,Azure Power appoints a new Chairman of the Board of Directors,0.0,22.0,23.39,22.18,0.0,0,Neutral,negative
+43,AZRE,Sep-24-21,12:00PM  ,7 Clean Energy Stocks Trading too Hot at the Moment,0.5859,20.489999771118164,21.36,19.88,20.571465735015835,1,Increase,Success
+44,AZRE,Sep-01-21,09:36AM  ,"Azure Power Global (AZRE) Q1 Earnings Beat, Shares Up 15%",0.296,22.010000228881836,22.84,21.86,22.1822980956024,1,Increase,Success
+45,AZRE,Aug-31-21,10:30PM  ,Azure Power Global Limited (AZRE) Q1 2022 Earnings Call Transcript,-0.2263,22.459999084472656,22.7,21.57,22.580117998695844,1,Neutral,negative
+46,AZRE,Aug-31-21,03:19PM  ,Why Shares of Azure Power Global Limited Jumped Today,0.0772,22.459999084472656,22.7,21.57,22.580117998695844,1,Increase,Success
+47,AZRE,Aug-30-21,06:35PM  ,Azure Power (AZRE) Tops Q1 Earnings and Revenue Estimates,0.5106,19.520000457763672,23.3,20.41,19.57365829065428,1,Increase,Success
+48,AZRE,Aug-30-21,05:00PM  ,Azure Power Announces Results for Fiscal First Quarter 2022,0.0,19.520000457763672,23.3,20.41,0.0,0,Neutral,positive
+49,AZRE,Aug-27-21,10:32AM  ,"Azure Power to Announce Results for Fiscal First Quarter 2022 Ended June 30, 2021 After the Market Closes on August 30, 2021",0.0,19.3700008392334,20.1,19.4,0.0,0,Neutral,positive
+50,AZRE,Aug-12-21,09:49AM  ,US$414 Million Green Bond Issuance at Lowest Ever Yield for Renewable Energy Company in India,-0.128,24.670000076293945,24.85,23.98,24.770288839468346,1,Neutral,negative
+51,AZRE,Aug-11-21,11:43AM  ,Replay  Invest Alongside Goldman in India: Fireside with ReNew Power CEO & RMG Acquistion Corp. II CEO,0.0,25.15999984741211,25.37,24.29,0.0,0,Neutral,negative
+52,AZRE,Aug-11-21,02:29AM  ,Azure Power Global (NYSE:AZRE) shareholders have earned a 17% CAGR over the last three years,0.0,25.15999984741211,25.37,24.29,0.0,0,Neutral,negative
+53,AZRE,Aug-10-21,11:30AM  ,Goldman-Backed Green Power in India: ReNew Power CEO & RMG Acquistion Corp. II CEO in Fireside Chat   10AM ET Weds,0.0,25.510000228881836,25.85,24.09,0.0,0,Neutral,negative
+54,AZRE,Aug-06-21,05:30PM  ,OMERS Infrastructure Purchases 19.4% Stake in Azure Power Global Ltd,0.0,25.389999389648438,25.9,24.44,0.0,0,Neutral,negative
+55,AZRE,Aug-05-21,03:00PM  ,Analysts Estimate Azure Power (AZRE) to Report a Decline in Earnings: What to Look Out for,0.0,25.170000076293945,25.8,24.8,0.0,0,Neutral,negative
+56,AZRE,Jul-30-21,01:25PM  ,OMERS Infrastructure Agrees to Purchase 19.4% Stake in Azure Power,0.2023,26.049999237060547,26.38,24.56,25.728435718441318,-1,Neutral,negative
+57,AZRE,Jul-28-21,05:00PM  ,Azure Power Files Fiscal Year 2021 Annual Report on Form 20-F,0.0,26.049999237060547,26.64,25.24,0.0,0,Neutral,negative
+58,AZRE,Jun-16-21,01:00PM  ,Azure Power Global Limited (AZRE) Q4 2021 Earnings Call Transcript,-0.2263,23.0,26.36,22.43,22.876116991601393,-1,Decrease,Success
+59,AZRE,Jun-15-21,05:00PM  ,Azure Power Announces Results for Fiscal Fourth Quarter 2021,0.0,22.0,23.83,21.76,0.0,0,Neutral,positive
+60,AZRE,Jun-15-21,08:54AM  ,Tuesdays Pre-Market: Heres What You Need to Know Before the Market Opens,0.0,22.0,23.83,21.76,0.0,0,Neutral,positive
+61,AZRE,Jun-14-21,04:30PM  ,"Azure Power to Announce Results for Fiscal Fourth Quarter 2021 Ended March 31, 2021 After the Market Closes on June 15, 2021",0.0,23.1200008392334,23.34,21.55,0.0,0,Neutral,positive
+62,AZRE,Jun-04-21,03:00PM  ,Azure Power (AZRE) to Report Q4 Results: Wall Street Expects Earnings Growth,0.3818,19.010000228881836,19.28,18.52,19.04144461921852,1,Increase,Success
+63,AZRE,May-13-21,02:10AM  ,Investors Will Want Azure Power Global's (NYSE:AZRE) Growth In ROCE To Persist,0.4404,18.860000610351562,20.23,19.18,18.66327150386731,-1,Neutral,positive
+64,AZRE,May-03-21,07:07AM  ,3 Top Growth Stocks in Renewable Energy,0.6705,22.219999313354492,22.61,21.22,22.171584473779983,-1,Neutral,negative
+65,AZRE,Apr-12-21,08:20AM  ,Eos Energy Announces Key Customer Orders in Critical Markets to Increase Backlog to $30 million,0.2732,27.389999389648438,27.4,26.05,27.464517243753356,1,Increase,Success
+66,AZRE,Apr-05-21,06:30AM  ,Azure Power Sells Non-core Solar Rooftop Portfolio to Radiance Renewables; Transaction Expected to Improve Overall Cost Structure and be Value Accretive,0.7717,27.989999771118164,28.38,27.25,28.186617031034118,1,Increase,Success
+67,AZRE,Apr-01-21,07:11AM  ,Investors Should Get Charged Up About Cash Machine ReNew Power,-0.2023,27.09000015258789,29.02,27.09,26.815952249370255,-1,Decrease,Success
+68,AZRE,Mar-14-21,04:03AM  ,Do Institutions Own Azure Power Global Limited (NYSE:AZRE) Shares?,0.0772,30.43000030517578,31.46,29.56,30.34465259134221,-1,Neutral,negative
+69,AZRE,Feb-11-21,11:01PM  ,Azure Power Global Limited (AZRE) Q3 2021 Earnings Call Transcript,-0.2263,34.650001525878906,36.42,33.89,34.49140324753554,-1,Decrease,Success
+70,AZRE,Feb-11-21,06:30AM  ,Azure Power Global Ltd. to Host Earnings Call,0.0,34.650001525878906,36.42,33.89,0.0,0,Neutral,negative
+71,AZRE,Feb-10-21,06:15PM  ,"Azure Power (AZRE) Reports Q3 Loss, Lags Revenue Estimates",-0.5859,37.7599983215332,35.14,32.36,38.422807558186655,1,Neutral,negative
+72,AZRE,Feb-10-21,04:30PM  ,Azure Power Announces Results for Fiscal Third Quarter 2021,0.0,37.7599983215332,35.14,32.36,0.0,0,Neutral,negative
+73,AZRE,Feb-04-21,01:46PM  ,"Azure Power to Announce Results for Fiscal Third Quarter 2021 Ended December 31, 2020 After the Market Closes on February 10, 2021",0.0,38.0,40.45,37.5,0.0,0,Neutral,negative
+74,AZRE,Feb-02-21,12:31PM  ,Azure Power (AZRE) May Report Negative Earnings: Know the Trend Ahead of Q3 Release,-0.5719,40.43000030517578,41.72,38.11,41.17049333411488,1,Neutral,negative
+75,AZRE,Jan-12-21,11:45PM  ,Imagine Holding Azure Power Global (NYSE:AZRE) Shares While The Price Zoomed 310% Higher,0.296,49.939998626708984,51.86,49.62,50.51700622221248,1,Increase,Success
+76,AZRE,Jan-11-21,06:51AM  ,"Zacks.com featured highlights include: Azure Power Global, Mueller Industries, H&E Equipment Services, Korea Electric Power and InMode",0.0,48.72999954223633,51.06,49.19,0.0,0,Neutral,negative
+77,AZRE,Jan-08-21,08:42AM  ,ReneSola (SOL) Jumps: Stock Rises 7%,0.0,48.38999938964844,49.14,47.44,0.0,0,Neutral,positive
+78,AZRE,Jan-08-21,07:43AM  ,5 Stocks With Recent Price Strength to Tap Market Rally,0.4939,48.38999938964844,49.14,47.44,48.637275700864116,1,Increase,Success
+79,AZRE,Jan-07-21,12:00PM  ,Here's Why Azure Power (AZRE) is a Great Momentum Stock to Buy,0.6249,48.900001525878906,49.92,47.01,49.52806817175838,1,Increase,Success
+80,AZRE,Jan-06-21,12:00PM  ,Azure Power (AZRE) Upgraded to Strong Buy: Here's What You Should Know,0.5106,48.34000015258789,52.06,48.74,47.96451745696054,-1,Neutral,positive
+81,AZRE,Dec-23-20,04:15PM  ,Azure Power Provides an Update on 4 GW Tender,0.0,37.97999954223633,37.72,35.6,0.0,0,Neutral,positive
+82,AZRE,Dec-16-20,08:46AM  ,Green Energy Transition to Boost Renewables: 3 Stocks to Buy,0.5859,32.75,33.46,31.84,32.7288563754425,-1,Neutral,positive
+83,AZRE,Dec-08-20,10:56AM  ,"The Zacks Analyst Blog Highlights: SunPower, Ameresco, Azure Power Global and ReneSola",0.0,35.63999938964844,35.94,33.53,0.0,0,Neutral,negative
+84,AZRE,Dec-08-20,08:18AM  ,ReneSola (SOL) Sells 16-MW Solar Projects in Poland to Modus Asset,0.3612,35.63999938964844,35.94,33.53,35.896116747423974,1,Increase,Success
+85,AZRE,Dec-07-20,09:12AM  ,COVID-19 Accelerates Reduction of GHG Emissions in US: 4 Picks,0.0,35.61000061035156,36.11,34.79,0.0,0,Neutral,negative
+86,AZRE,Nov-29-20,09:45AM  ,Is Azure Power Global Limited (AZRE) A Good Stock To Buy?,0.25,37.849998474121094,38.69,36.41,37.067252363483675,-1,Neutral,negative
+87,AZRE,Nov-25-20,09:10AM  ,ReneSola Sells 4.3-MW Solar Project to Atmosclear Investments,0.0,36.15999984741211,38.71,36.39,0.0,0,Neutral,positive
+88,AZRE,Nov-20-20,08:35AM  ,"Zacks.com featured highlights include: Vista Outdoor, Meridian Bioscience, Standard Motor Products, NIC and Azure Power",0.0,31.75,32.86,31.89,0.0,0,Neutral,positive
+89,AZRE,Nov-19-20,12:00PM  ,Azure Power (AZRE) Upgraded to Strong Buy: Here's Why,0.5106,30.18000030517578,31.99,29.79,30.013106369340793,-1,Neutral,positive
+90,AZRE,Nov-19-20,09:54AM  ,Sail Through the Choppy Market With These 5 Low-Beta Stocks,0.0,30.18000030517578,31.99,29.79,0.0,0,Neutral,positive
+91,AZRE,Nov-14-20,07:45AM  ,Azure Power Global Limited (NYSE:AZRE) Released Earnings Last Week And Analysts Lifted Their Price Target To US$32.90,-0.2263,28.979999542236328,30.42,28.67,28.290877939334287,-1,Decrease,Success
+92,AZRE,Nov-12-20,11:31PM  ,Azure Power Global Limited (AZRE) Q2 2021 Earnings Call Transcript,-0.2263,28.0,29.07,28.0,28.251924411827304,1,Neutral,positive
+93,AZRE,Nov-10-20,07:05PM  ,"Azure Power (AZRE) Reports Q2 Loss, Tops Revenue Estimates",0.25,28.989999771118164,31.99,28.58,29.184101010246067,1,Increase,Success
+94,AZRE,Nov-10-20,04:41PM  ,Azure Power Announces Results for Fiscal Second Quarter 2021,0.0,28.989999771118164,31.99,28.58,0.0,0,Neutral,positive
+95,AZRE,Nov-09-20,06:00AM  ,"Azure Power to Announce Results for Fiscal Second Quarter 2021 Ended September 30, 2020 After the Market Closes on November 10, 2020",0.0,29.540000915527344,30.36,28.5,0.0,0,Neutral,negative
+96,AZRE,Nov-06-20,05:47AM  ,Can Azure Power Global (NYSE:AZRE) Continue To Grow Its Returns On Capital?,0.0,29.649999618530273,31.39,29.42,0.0,0,Neutral,negative
+97,AZRE,Oct-15-20,07:24AM  ,Azure Power Releases FY 2020 Sustainability Report,0.0,27.510000228881836,28.37,26.56,0.0,0,Neutral,positive
+98,AZRE,Oct-08-20,11:10AM  ,"Investors Flock Green Energy Before Election: Top ETFs, Stocks",0.4404,31.93000030517578,32.24,30.24,32.00778494451659,1,Increase,Success
+99,AZRE,Oct-08-20,06:30AM  ,Sanjeev Aggarwal Resigns from Board of Directors at Azure Power,-0.3182,31.93000030517578,32.24,30.24,32.00778494451659,1,Neutral,negative

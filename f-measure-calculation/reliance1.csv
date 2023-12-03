@@ -1,0 +1,101 @@
+,ticker,date,time,title,compound,Close,day1_high,day1_low,arima_value,arima_res,prediction,observation
+0,RDY,Dec-19-22,08:00AM,"Dr. Reddys Successfully Completes Phase 1 Study of DRL_TC, a Proposed Biosimilar of Tocilizumab",0.4939,2599.300048828125,2626.0,2566.0,2564.3180678918557,-1,Neutral,negative
+1,RDY,Oct-31-22,11:01AM,Dr. Reddy's (RDY) Earnings & Revenues Trump Estimates in Q2,0.0,2549.60009765625,2600.0,2508.0,0.0,0,Neutral,positive
+2,RDY,Oct-11-22,07:57AM,World Economic Forum Recognises Dr. Reddys Hyderabad Factory as Part of its Global Lighthouse Network,0.0,2357.89990234375,2381.7,2343.1,0.0,0,Neutral,positive
+3,RDY,Sep-07-22,01:28PM,"Dr. Reddy's Laboratories Announces the Launch of Lenalidomide Capsules in the U.S. With Two of Six Strengths Eligible for First-to-market, 180-day Exclusivity",0.4019,2581.75,2598.0,2571.0,2606.414611315558,1,Increase,Success
+4,RDY,Aug-17-22,10:16AM,Intercept Settles Ocaliva Litigation With Reddy's Lab,-0.2023,2665.14990234375,2669.0,2640.2,2643.2057026460416,-1,Decrease,Success
+5,RDY,Aug-02-22,09:45AM,Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick,0.743,2584.64990234375,2610.0,2567.45,2573.500628502445,-1,Neutral,negative
+6,RDY,Jul-29-22,04:28PM,"Dr. Reddy's (RDY) Q1 Earnings Increase Y/Y, Sales Increase",0.5574,2509.449951171875,2587.75,2507.6,2465.631919642002,-1,Neutral,positive
+7,RDY,Jul-29-22,01:24PM,Dr. Reddy's Laboratories enters into a licensing agreement with Slayback Pharma to obtain exclusive rights in the first-to-file ANDA for the private label version of Lumify® in the U.S.,0.5719,2509.449951171875,2587.75,2507.6,2465.631919642002,-1,Neutral,positive
+8,RDY,Jul-27-22,03:26AM,"Dr. Reddy's Laboratories announces the launch of Bortezomib for Injection, 3.5 mg Single-Dose Vial in the U.S. Market",0.0,2419.199951171875,2467.95,2421.0,0.0,0,Neutral,positive
+9,RDY,Jul-22-22,06:17AM,"Dr. Reddys Announces the First-to-Market Launch of Over-the-Counter, Store-Brand Equivalent of Allegra-D® 24 Hr in the U.S. Market",0.0,2503.10009765625,2467.45,2403.0,0.0,0,Neutral,negative
+10,RDY,Jul-08-22,11:48AM,Dr. Reddy's Laboratories Announces the Launch of Fesoterodine Fumarate Extended-Release Tablets in the U.S. Market,0.0,2391.39990234375,2428.8,2370.0,0.0,0,Neutral,positive
+11,RDY,Jul-05-22,03:30AM,"Aurigene Discovery Technologies Limited Announces Drug Discovery, Development and Commercialization Partnership with EQRx",-0.2263,2433.25,2441.95,2388.0,2405.4319319206606,-1,Decrease,Success
+12,RDY,Jun-24-22,09:45AM,Eton Pharma Shares Tick Higher After Offloading Hospital Products,0.296,2500.050048828125,2544.95,2481.55,2457.782669816399,-1,Neutral,positive
+13,RDY,Jun-24-22,09:09AM,Dr. Reddy's Laboratories Announces the Acquisition of an Injectable Product Portfolio from Eton Pharma,0.0,2500.050048828125,2544.95,2481.55,0.0,0,Neutral,positive
+14,RDY,Jun-24-22,07:30AM,Eton Pharmaceuticals Announces Sale of Hospital Products,0.0,2500.050048828125,2544.95,2481.55,0.0,0,Neutral,positive
+15,RDY,Jun-14-22,02:51AM,"Dr. Reddy's Laboratories announces the launch of the generic version of Nexavar (sorafenib) Tablets, USP, 200 mg in the U.S. market",0.0,2628.10009765625,2637.3,2584.4,0.0,0,Neutral,negative
+16,RDY,May-27-22,10:15AM,"Dr. Reddy's Laboratories Announces the Launch of Pemetrexed for Injection USP, in the U.S. Market",0.0,2575.10009765625,2674.0,2594.2,0.0,0,Neutral,positive
+17,RDY,May-24-22,01:40PM,"Dr. Reddy's Laboratories and Senores Pharmaceuticals, Inc. announce the launch of Ketorolac Tromethamine Tablets USP, 10 mg in the U.S. market",0.0,2615.85009765625,2656.7,2601.5,0.0,0,Neutral,negative
+18,RDY,May-20-22,09:50AM,"Dr. Reddy's (RDY) Q4 Earnings Decline Y/Y, Sales Increase",0.3182,2624.449951171875,2653.55,2593.0,2455.3782516673273,-1,Neutral,negative
+19,RDY,Apr-20-22,12:41PM,Dr. Reddy's Laboratories Announces the Launch of Posaconazole Delayed-Release Tablets in the U.S. Market,0.0,2718.449951171875,2789.0,2732.0,0.0,0,Neutral,positive
+20,RDY,Apr-05-22,06:52AM,"Dr. Reddy's Laboratories Announces the Launch of Methylprednisolone Sodium Succinate for Injection, USP in the U.S. Market",0.0,2626.050048828125,2634.5,2587.1,0.0,0,Neutral,negative
+21,RDY,Apr-01-22,08:00AM,Dr. Reddy's Laboratories and MediCane Health Announce the Launch of Medical Cannabis Products in Germany,0.0,2655.85009765625,2675.0,2641.65,0.0,0,Neutral,negative
+22,RDY,Mar-27-22,01:09AM,What Kind Of Investors Own Most Of ReadyTech Holdings Limited (ASX:RDY)?,-0.2263,2621.949951171875,2638.0,2607.4,2595.1592256876074,-1,Decrease,Success
+23,RDY,Feb-09-22,09:17AM,"Dr. Reddy's Laboratories Announces the Launch of Its Authorized Generic Version of VASOSTRICT® (vasopressin injection, USP) Vials in the U.S. Market",0.0,2383.5,2395.7,2365.1,0.0,0,Neutral,negative
+24,RDY,Feb-03-22,09:33AM,Dr. Reddy's Laboratories Enters Into Definitive Agreement to Acquire German Medical Cannabis Firm Nimbus Health GmbH,0.4939,2352.75,2348.45,2321.1,2376.917849203176,1,Increase,Failure
+25,RDY,Feb-02-22,04:15AM,Dr. Reddys Included in S&P Globals Sustainability Yearbook for the 2nd Year and Bloomberg Gender-Equality Index for the 5th Year in a Row,0.0,2383.550048828125,2401.45,2347.2,0.0,0,Neutral,negative
+26,RDY,Jan-31-22,01:10PM,"Dr. Reddy's (RDY) Q3 Earnings, Sales Increase Year Over Year",0.3182,2386.60009765625,2420.6,2347.1,2323.6866580114192,-1,Neutral,negative
+27,RDY,Jan-31-22,09:38AM,"ARGA Investment Management, LP Buys Petroleo Brasileiro SA Petrobras, Trip. ...",0.0,2386.60009765625,2420.6,2347.1,0.0,0,Neutral,negative
+28,RDY,Jan-04-22,06:18AM,UPDATE 1-Dr Reddy's to launch generic COVID-19 Merck drug at about 50 cents a pill,0.0,2458.10009765625,2477.0,2432.95,0.0,0,Neutral,negative
+29,RDY,Dec-15-21,01:49PM,Dr. Reddys and Prestige BioPharma announce partnership to commercialize biosimilar for cancer treatment in select countries in Latin America and Southeast Asia,-0.6597,2373.199951171875,2415.5,2368.65,2378.308645064624,1,Neutral,negative
+30,RDY,Dec-14-21,12:20PM,Prestige BioPharma and Dr. Reddys Announce Partnership to Commercialize Trastuzumab Biosimilar in Select Countries in Latin America and Southeast Asia,0.0,2380.14990234375,2405.0,2361.1,0.0,0,Neutral,negative
+31,RDY,Dec-09-21,11:47PM,Dr. Reddy's Laboratories Announces the Launch of Venlafaxine ER Tablets in the U.S. Market,0.0,2456.449951171875,2466.0,2430.35,0.0,0,Neutral,negative
+32,RDY,Dec-09-21,03:18AM,"Dr. Reddy's Laboratories Announces the Launch of Valsartan Tablets, USP in the U.S. Market",0.0,2456.449951171875,2466.0,2430.35,0.0,0,Neutral,negative
+33,RDY,Dec-09-21,12:50AM,Prestige BioPharma and Dr. Reddys announce partnership to commercialize trastuzumab biosimilar in select countries in Latin America and Southeast Asia,0.0,2456.449951171875,2466.0,2430.35,0.0,0,Neutral,negative
+34,RDY,Dec-08-21,09:00PM,Prestige BioPharma and Dr. Reddys announce partnership to commercialize trastuzumab biosimilar in select countries in Latin America and Southeast Asia,0.0,2418.10009765625,2474.9,2425.0,0.0,0,Neutral,positive
+35,RDY,Nov-16-21,07:33AM,Dr. Reddy's Ready To Make COVID-19 Antiviral From Pfizer - Reuters,0.3612,2517.89990234375,2498.95,2461.0,2571.65927559082,1,Increase,Failure
+36,RDY,Nov-01-21,11:50AM,"Dr. Reddy's (RDY) Q2 Earnings, Sales Increase Year Over Year",0.3182,2537.800048828125,2548.0,2495.25,2521.6181330279487,-1,Neutral,negative
+37,RDY,Oct-29-21,08:59AM,"Dr. Reddy's Laboratories Announces the Launch of Ephedrine Sulfate Injection USP, 50 mg/mL, Single-Dose Vial in the U.S. Market",0.0,2536.25,2556.0,2494.1,0.0,0,Neutral,negative
+38,RDY,Oct-19-21,12:14AM,Dr. Reddy's Laboratories Announces Approval for Lenalidomide Capsules from the U.S. Food and Drug Administration (USFDA),0.4767,2731.85009765625,2742.75,2691.5,2709.4670529665837,-1,Neutral,negative
+39,RDY,Oct-15-21,01:40PM,"Dr. Reddy's Laboratories Announces the Launch of Carmustine for Injection, USP in the U.S. Market",0.0,2707.60009765625,2751.35,2708.0,0.0,0,Neutral,negative
+40,RDY,Sep-09-21,08:30AM,"Beroni Group Received Approval for 43.5% R&D Rebate from Australian Government for the Novel, Potential Anti-Cancer Drug PENAO",0.6597,2425.60009765625,2433.0,2368.05,2429.6911516663467,1,Increase,Success
+41,RDY,Sep-07-21,07:30AM,Citius Pharmaceuticals Acquires Dr. Reddy's Laboratories' License for Late-Phase 3 Oncology Immunotherapy (E7777) for the Treatment of Cutaneous T-Cell Lymphoma and other Cancer Indications,-0.6597,2440.89990234375,2454.0,2406.65,2430.5827496878755,-1,Decrease,Success
+42,RDY,Sep-04-21,01:11AM,"Dr. Reddys Laboratories enters into definitive agreement with Citius Pharmaceuticals, Inc. to sell its rights to anti-cancer agent E7777 (denileukin diftitox)",0.4939,2425.60009765625,2458.0,2412.0,2397.0845325611617,-1,Neutral,negative
+43,RDY,Sep-02-21,12:12AM,"Dr. Reddy's Laboratories Canada announces the launch of Reddy-Lenalidomide, one of the first generic medications of its kind for the Canadian Market",0.5267,2294.39990234375,2395.0,2302.5,2261.672443928805,-1,Neutral,positive
+44,RDY,Aug-31-21,02:43AM,"Dr. Reddy's Laboratories Announces the Launch of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, USP in the U.S. Market",0.0,2258.14990234375,2292.9,2263.0,0.0,0,Neutral,positive
+45,RDY,Aug-18-21,08:30AM,"Beroni Initiates Manufacture of its Novel, Potential Anti-Cancer Drug PENAO",0.3182,2172.64990234375,2172.0,2137.0,2157.11268297902,-1,Neutral,positive
+46,RDY,Aug-04-21,10:32AM,"Dr. Reddys Laboratories Announces Entry Into Definitive Agreement with BioDelivery Sciences International, Inc., to Sell its U.S. and Canada Territory Rights for ELYXYB (celecoxib oral solution) 25 mg/mL",0.4939,2103.75,2154.8,2104.25,2089.1343776505805,-1,Neutral,negative
+47,RDY,Aug-03-21,08:32AM,"Dr. Reddys Announces the Re-Launch of Over-the-Counter Naproxen Sodium Tablets USP, 220 mg, Store-Brand Equivalent of Aleve® in the U.S. Market",0.0,2087.75,2114.0,2087.0,0.0,0,Neutral,positive
+48,RDY,Jul-29-21,04:00PM,DrReddy's Laboratories Ltd (RDY) Q1 2022 Earnings Call Transcript,0.0,2053.25,2067.95,2031.1,0.0,0,Neutral,positive
+49,RDY,Jul-27-21,12:38PM,"Dr. Reddy's (RDY) Q1 Earnings Decline Y/Y, Sales Increase",0.3182,2055.0,2058.0,2016.25,2070.576448131101,1,Increase,Success
+50,RDY,Jun-30-21,11:58PM,Dr. Reddy's Laboratories Announces Filing of Annual Report on Form 20-F,0.0,2110.64990234375,2123.15,2095.0,0.0,0,Neutral,positive
+51,RDY,Jun-30-21,11:29AM,"Dr. Reddy's Lab, Fortress Biotech Ink DFD-29 Collaboration Pact For Chronic Skin Disorder",-0.4019,2110.64990234375,2123.15,2095.0,2092.201742301483,-1,Decrease,Success
+52,RDY,Jun-30-21,08:00AM,Journey Medical Corporation Enters into a Definitive Agreement with Dr. Reddys Laboratories Ltd. to Develop and Commercialize DFD-29 for the Treatment of Rosacea,0.4939,2110.64990234375,2123.15,2095.0,2092.201742301483,-1,Neutral,positive
+53,RDY,Jun-29-21,11:30AM,UPDATE 1-Five Indian drugmakers to jointly start local trial of Merck & Co's COVID-19 drug,0.0,2087.800048828125,2122.65,2091.05,0.0,0,Neutral,positive
+54,RDY,Jun-29-21,07:27AM,Five Indian drugmakers to jointly start trial of Merck & Co's COVID-19 drug,0.0,2087.800048828125,2122.65,2091.05,0.0,0,Neutral,positive
+55,RDY,Jun-22-21,02:07AM,"Dr. Reddy's Laboratories Announces the Launch of Icosapent Ethyl Capsules, 1 Gram in the U.S. Market",0.0,2225.75,2250.6,2201.7,0.0,0,Neutral,negative
+56,RDY,Jun-03-21,10:00AM,Global Response Aid Reports Midyear Sales Results for COVID Drug,0.0,2209.64990234375,2216.45,2184.25,0.0,0,Neutral,negative
+57,RDY,May-17-21,12:17PM,"Dr. Reddy's (RDY) Q4 Earnings Decline Y/Y, Sales Increase",0.3182,1960.3499755859375,2002.6,1972.5,1942.312079346645,-1,Neutral,positive
+58,RDY,May-12-21,12:56AM,Dr. Reddy's Laboratories Announces the Launch of Ertapenem for Injection in the U.S. Market,0.0,1913.1500244140625,1942.0,1906.0,0.0,0,Neutral,positive
+59,RDY,May-11-21,06:03AM,Why Is No One Talking About Dr. Reddy's Stock?,-0.296,1933.1500244140625,1932.9,1907.0,1927.8383459554102,-1,Decrease,Success
+60,RDY,Apr-29-21,10:41AM,"Dr. Reddy's Laboratories Announces the Launch of Albendazole Tablets, USP in the U.S. Market",0.0,2024.050048828125,2036.0,1987.55,0.0,0,Neutral,negative
+61,RDY,Apr-13-21,06:57AM,Dr. Reddys Receives Approval For Emergency Use Of Sputnik V In India,0.128,1931.800048828125,1961.0,1913.0,1902.0187938431768,-1,Neutral,negative
+62,RDY,Apr-13-21,02:03AM,Dr. Reddy's Laboratories Gets Emergency Use Authorisation for Sputnik V in India,-0.3818,1931.800048828125,1961.0,1913.0,1902.0187938431768,-1,Decrease,Success
+63,RDY,Apr-12-21,10:32AM,Dr. Reddy's Stock Is Trading Higher As Sputnik V Vaccine Gets Emergency Use Nod In India: Report,-0.3818,1911.1500244140625,1940.6,1917.85,1975.635550771694,1,Neutral,positive
+64,RDY,Apr-07-21,04:56AM,"Dr. Reddy's Laboratories Announces the Launch of a Generic Version of Sapropterin Dihydrochloride Powder for Oral Solution, 100 mg in the U.S. Market",0.3182,2002.8499755859375,2022.0,1993.0,1985.0266344277788,-1,Neutral,negative
+65,RDY,Mar-09-21,10:45PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddys Laboratories Limited - RDY,0.2577,2191.050048828125,2215.1,2170.25,2186.9058503762726,-1,Neutral,negative
+66,RDY,Mar-07-21,05:41PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,2191.10009765625,2213.8,2146.6,2170.2035480246013,-1,Neutral,negative
+67,RDY,Mar-06-21,01:09PM,U.S. Moves to Protect Tech Supply Chains. Why Taiwan and Korea Play an Important Part.,0.7003,2191.10009765625,2213.8,2146.6,2166.8973888103174,-1,Neutral,negative
+68,RDY,Mar-03-21,03:00AM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,2202.10009765625,2189.95,2157.7,2099.5226376477976,-1,Neutral,negative
+69,RDY,Feb-22-21,01:16PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,2008.0999755859375,2052.9,2013.6,2077.220493769021,1,Increase,Success
+70,RDY,Feb-22-21,01:13AM,Dr. Reddy's Laboratories Announces the Launch of Lansoprazole DR Orally Disintegrating Tablets in the U.S. Market,0.0,2008.0999755859375,2052.9,2013.6,0.0,0,Neutral,positive
+71,RDY,Feb-20-21,06:45PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims  On Behalf of Investors of Dr. Reddys Laboratories Limited - RDY,0.2577,2008.0999755859375,2052.9,2013.6,2076.8300775880334,1,Increase,Success
+72,RDY,Feb-19-21,06:25AM,Dr. Reddy's Starts EUA Process For Russia's Sputnik V COVID-19 Vaccine In India,0.0,2080.300048828125,2089.9,1994.95,0.0,0,Neutral,negative
+73,RDY,Feb-19-21,05:45AM,Dr. Reddy's Initiates Process for Emergency Use Authorization of Sputnik V,-0.3818,2080.300048828125,2089.9,1994.95,2061.2234640626257,-1,Decrease,Success
+74,RDY,Feb-19-21,12:35AM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,2080.300048828125,2089.9,1994.95,2061.2234640626257,-1,Neutral,negative
+75,RDY,Feb-18-21,01:50AM,"Dr. Reddy's Laboratories announces the launch of Fluphenazine Hydrochloride Tablets, USP in the U.S. Market",0.0,2067.699951171875,2104.95,2053.3,0.0,0,Neutral,negative
+76,RDY,Feb-17-21,05:11AM,"Dr. Reddy's Laboratories Announces the Launch of Capecitabine Tablets, USP in the U.S. Market",0.0,2083.25,2108.4,2059.1,0.0,0,Neutral,negative
+77,RDY,Feb-15-21,07:38PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,2032.5999755859375,2079.4,2035.0,2031.2752444516323,-1,Neutral,positive
+78,RDY,Feb-14-21,01:19AM,"Is AMETEK, Inc.'s (NYSE:AME) Stock's Recent Performance A Reflection Of Its Financial Health?",0.0,2032.5999755859375,2079.4,2035.0,0.0,0,Neutral,positive
+79,RDY,Feb-13-21,04:50PM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims  On Behalf of Investors of Dr. Reddys Laboratories Limited - RDY,0.2577,2032.5999755859375,2079.4,2035.0,2032.040672054257,-1,Neutral,positive
+80,RDY,Feb-11-21,08:01AM,AMETEK Increases Quarterly Dividend,0.0,2055.699951171875,2078.0,2015.4,0.0,0,Neutral,positive
+81,RDY,Feb-11-21,08:00AM,AMETEK Announces Appointment of Karleen Oberton to Board of Directors,0.0,2055.699951171875,2078.0,2015.4,0.0,0,Neutral,positive
+82,RDY,Feb-02-21,04:20AM,"Dr. Reddy's Laboratories Announces the Launch of Vigabatrin Tablets, USP in the U.S. Market",0.0,1925.800048828125,1952.0,1900.0,0.0,0,Neutral,positive
+83,RDY,Feb-02-21,12:18AM,SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Dr. Reddy's Laboratories Limited - RDY,0.2577,1925.800048828125,1952.0,1900.0,1907.1033161823252,-1,Neutral,positive
+84,RDY,Feb-01-21,11:30AM,"Bronstein, Gewirtz & Grossman, LLC Notifies Investors of Dr. Reddy's Laboratories Limited (RDY) Investigation",-0.2263,1895.300048828125,1940.0,1854.95,1857.09895699267,-1,Decrease,Success
+85,RDY,Feb-01-21,10:25AM,"Dr. Reddy's (RDY) Q3 Earnings Decline Y/Y, Sales Increase",0.3182,1895.300048828125,1940.0,1854.95,1857.09895699267,-1,Neutral,positive
+86,RDY,Jan-29-21,04:37AM,Dr. Reddys Q3 & 9M FY21 Financial Results,0.0,1841.949951171875,1905.0,1848.0,0.0,0,Neutral,positive
+87,RDY,Jan-28-21,10:10AM,Dr. Reddy's (RDY) Ends Kuwait Study on Avigan for COVID-19,0.0,1876.550048828125,1913.1,1830.0,0.0,0,Neutral,positive
+88,RDY,Jan-27-21,05:02AM,Dr. Reddys and GRA announces Avigan Pivotal Studies Update,0.0,1895.0,1923.3,1870.0,0.0,0,Neutral,negative
+89,RDY,Jan-18-21,09:38AM,Dr. Reddy's (RDY) to Begin Phase III Study on Sputnik Vaccine,0.0,1983.949951171875,2031.0,1994.65,0.0,0,Neutral,positive
+90,RDY,Jan-15-21,12:33PM,Dr. Reddys Receives Approval to Conduct Phase 3 Clinical Trial for Sputnik V Vaccine in India,0.4767,1937.449951171875,1997.0,1923.35,1975.453149282998,1,Increase,Success
+91,RDY,Jan-11-21,10:25AM,Sputnik V meets the primary endpoint of safety in the Phase 2 Clinical Trial in India,0.4215,1897.25,1960.0,1899.9,1940.7330721500407,1,Increase,Success
+92,RDY,Jan-11-21,09:56AM,P/E Ratio Insights for Dr Reddy's Laboratories,0.0,1897.25,1960.0,1899.9,0.0,0,Neutral,positive
+93,RDY,Jan-11-21,04:59AM,Dr. Reddy's Laboratories announces the launch of Febuxostat Tablets in the U.S. Market,0.0,1897.25,1960.0,1899.9,0.0,0,Neutral,positive
+94,RDY,Jan-08-21,08:21AM,"Dr. Reddy's to Release Q3 FY 21 Results on January 29th, 2021",0.0,1933.699951171875,1938.8,1892.5,0.0,0,Neutral,positive
+95,RDY,Dec-22-20,01:11AM,"Dr. Reddy's Laboratories, Global Response Aid, and Appili Therapeutics Announce the Filing of an Application for REEQONUS (favipiravir) Tablets for the Treatment of COVID-19 under Health Canadas Interim Order",0.0,1936.699951171875,1951.45,1920.65,0.0,0,Neutral,positive
+96,RDY,Dec-14-20,12:51PM,Is RDY A Good Stock To Buy Now?,0.4404,1991.300048828125,1989.7,1961.1,2009.3266042410553,1,Increase,Failure
+97,RDY,Dec-09-20,04:20AM,"Secondary Listing of Dr. Reddys ADRs on NSE IFSC Limited (GIFT City, Gujarat, India)",-0.2263,2026.949951171875,2028.5,2001.0,1991.3377001283716,-1,Decrease,Success
+98,RDY,Dec-01-20,08:15AM,Dr. Reddy's and RDIF commence clinical trials for Sputnik V vaccine in India,0.0,1954.9000244140625,1962.0,1935.0,0.0,0,Neutral,positive
+99,RDY,Nov-28-20,11:33AM,"Dr. Reddys to Acquire Select Anti-Allergy Brands from Glenmark in Russia, Ukraine, Kazakhstan and Uzbekistan",0.0,1954.9000244140625,1962.0,1935.0,0.0,0,Neutral,positive
